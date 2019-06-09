@@ -1,7 +1,458 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3914b9fa-cb6e-4cee-a69a-654e122db887" name="Default Changelist" comment="" />
+    <list default="true" id="3914b9fa-cb6e-4cee-a69a-654e122db887" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/annotation-processors.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/beans-xml/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/hsql/create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/hsql/create-sample-data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/mssql/create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/mysql/create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/oracle/create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/oracle/createSetValFunctionForSequences.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/postgres/create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/init/postgres/functions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/14/140313-ftsQueueIndexingHost.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/14/140405-changeTypeForSysConfigValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/14/140708-addRememberMeTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/14/140716-changeSysFileSizeType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/14/141203-setNotNullSysFileName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150203-sendingMessageEmailHeaders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150203-userTimeZone.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150205-addSubstituteUserInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150226-addIndexInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150310-alterFilterXml.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150417-runtimePropertiesChanges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150514-categoryEntityTypeInAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150630-entityClassToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/150805-fakeFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/151106-extendScheduledTaskFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/151116-rowLevelSecurity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/151228-sendingMessagesExtendFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/15/1512282-addIsActiveToConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/160322-dropUniqSysScheduledTaskBeanMethodConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/160405-createUniqSysCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/160616-addSizeCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/160626-createIndexOnFinishTimeScheduledExecution.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/160725-anonymousLogin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/160916-addEntityIdToFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/161024-collectionDynamicAttributes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/161025-sysAttrValueParentConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/161102-setIsCollectionForExistingCategoryAttrs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/161124-FilterXmlInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/161124-joinAndWhereInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/270916-addEntityIdToQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/16/280916-removeNotNullEntityOnQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170214-addEntityIdToSnapshot.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170215-addEntityIdToEntityLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170221-addEntityIdToAttributeValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170228-createRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170502-createSessionHistoryTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170620-alterConstraints.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170712-createLocalizedConstraintMessageTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/170829-addLocaleNameColumnToCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/171002-addUserLoginToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/171116-addGlobalDefaultToFilterEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/171121-addLocaleToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/1712011000-createRestApiRefreshTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/1712011010-renameRestApiTokenColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/1712011010-renameRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/171227-createIndexStartedTsDescToSessionLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/17/171229-addRefreshTokenColumnToAccessTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/180112-alterDynamicAttributeDoubleType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/180312-renameColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/180321-addContentBodyTypeColumnToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/180331-truncateQueryResultTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/180704-addNotNullForConfig.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/181024-addCcAndBccToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/18/181210-addUserPasswordEncryption.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/hsql/19/190321-addEntityLogInstanceName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/02/02-100-entitySnapshotAuthor.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/02/02-110-addUserDescriminator.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/02/02-130-queryResults.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/02/02-140-entityLogChanges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/02/02-150-alterSysScheduledTask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121002-updateScreenPermissions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121003-addCodeToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121004-addFieldsToScheduledTasks.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121020-addLoginConstraintsForUser.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121024-addEncryptionParamsToUser.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121031-dropPasswordColumnFromScheduledTask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121102-dropSaltColumn.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121114-addDescriptionToScheduledTask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/12/121228-addJmxInstance.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/130110-removeJmxInstanceDescription.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/130311-renameColumnsForOracle.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/130731-changeServerEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/130918-email-attachment-options.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/130920-email-file-storage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/130923-permissionsToRenamedScreens.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/13/131112-scheduled-task-cron.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/14/140313-ftsQueueIndexingHost.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/14/140405-changeTypeForSysConfigValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/14/140708-addRememberMeTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/14/140716-changeSysFileSizeType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/14/141203-setNotNullSysFileName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150203-sendingMessageEmailHeaders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150203-userTimeZone.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150205-addSubstituteUserInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150226-addIndexInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150310-alterFilterXml.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150417-runtimePropertiesChanges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150514-categoryEntityTypeInAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150630-entityClassToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/150805-fakeFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/151106-extendScheduledTaskFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/151116-rowLevelSecurity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/151228-sendingMessagesExtendFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/15/1512282-addIsActiveToConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160322-dropUniqSysScheduledTaskBeanMethodConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160405-createUniqSysCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160420-createUpdateTsIndexOnSysSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160616-addSizeCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160626-createIndexOnFinishTimeScheduledExecution.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160725-anonymousLogin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/160916-addEntityIdToFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/161024-collectionDynamicAttributes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/161025-sysAttrValueParentConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/161102-setIsCollectionForExistingCategoryAttrs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/161124-FilterXmlInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/161124-joinAndWhereInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/16/270916-addEntityIdToQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170214-addEntityIdToSnapshot.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170215-addEntityIdToEntityLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170221-addEntityIdToAttributeValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170228-createRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170502-createSessionHistoryTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170620-alterConstraints.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170712-createLocalizedConstraintMessageTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/170829-addLocaleNameColumnToCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/171002-addUserLoginToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/171116-addGlobalDefaultToFilterEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/171121-addLocaleToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/1712011000-createRestApiRefreshTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/1712011010-renameRestApiTokenColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/1712011010-renameRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/171227-createIndexStartedTsDescToSessionLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/17/171229-addRefreshTokenColumnToAccessTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/180112-alterDynamicAttributeDoubleType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/180312-renameColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/180321-addContentBodyTypeColumnToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/180331-truncateQueryResultTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/180704-addNotNullForConfig.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/181024-addCcAndBccToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/18/181210-addUserPasswordEncryption.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mssql/19/190321-addEntityLogInstanceName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/160405-createUniqSysCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/160420-createUpdateTsIndexOnSysSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/160616-addSizeCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/160626-createIndexOnFinishTimeScheduledExecution.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/160725-anonymousLogin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/160916-addEntityIdToFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/161024-collectionDynamicAttributes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/161025-sysAttrValueParentConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/161102-setIsCollectionForExistingCategoryAttrs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/161124-FilterXmlInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/161124-joinAndWhereInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/16/270916-addEntityIdToQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170214-addEntityIdToSnapshot.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170215-addEntityIdToEntityLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170221-addEntityIdToAttributeValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170228-createRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170502-createSessionHistoryTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170620-alterConstraints.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170712-createLocalizedConstraintMessageTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/170829-addLocaleNameColumnToCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/171002-addUserLoginToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/171116-addGlobalDefaultToFilterEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/171121-addLocaleToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/1712011000-createRestApiRefreshTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/1712011010-renameRestApiTokenColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/1712011010-renameRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/171227-createIndexStartedTsDescToSessionLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/17/171229-addRefreshTokenColumnToAccessTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/180112-alterDynamicAttributeDoubleType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/180312-renameColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/180321-addContentBodyTypeColumnToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/180331-truncateQueryResultTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/180704-addNotNullForConfig.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/181024-addCcAndBccToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/18/181210-addUserPasswordEncryption.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/mysql/19/190321-addEntityLogInstanceName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/14/140313-ftsQueueIndexingHost.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/14/140405-changeTypeForSysConfigValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/14/140608-addGetCurrValFunction.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/14/140708-addRememberMeTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/14/140716-changeSysFileSizeType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/14/141203-setNotNullSysFileName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150203-sendingMessageEmailHeaders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150203-userTimeZone.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150205-addSubstituteUserInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150226-addConstaintInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150310-alterFilterXml.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150417-runtimePropertiesChanges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150514-categoryEntityTypeInAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150630-entityClassToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150717-fixSysQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/150805-fakeFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/151106-extendScheduledTaskFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/151116-rowLevelSecurity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/151228-sendingMessagesExtendFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/15/1512282-addIsActiveToConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160322-dropUniqSysScheduledTaskBeanMethodConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160405-createUniqSysCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160420-createUpdateTsIndexOnSysSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160616-addSizeCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160626-createIndexOnFinishTimeScheduledExecution.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160725-anonymousLogin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/160916-addEntityIdToFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/161024-collectionDynamicAttributes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/161025-sysAttrValueParentConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/161102-setIsCollectionForExistingCategoryAttrs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/161124-FilterXmlInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/161124-joinAndWhereInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/16/270916-addEntityIdToQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170214-addEntityIdToSnapshot.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170215-addEntityIdToEntityLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170221-addEntityIdToAttributeValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170228-createRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170502-createSessionHistoryTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170620-alterConstraints.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170712-createLocalizedConstraintMessageTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/170829-addLocaleNameColumnToCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/171002-addUserLoginToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/171116-addGlobalDefaultToFilterEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/171121-addLocaleToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/1712011000-createRestApiRefreshTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/1712011010-renameRestApiTokenColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/1712011010-renameRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/171227-createIndexStartedTsDescToSessionLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/17/171229-addRefreshTokenColumnToAccessTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/180112-alterDynamicAttributeDoubleType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/180312-renameColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/180321-addContentBodyTypeColumnToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/180331-truncateQueryResultTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/180704-addNotNullForConfig.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/181024-addCcAndBccToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/18/181210-addUserPasswordEncryption.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/19/190226-alterFilterXml.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/oracle/19/190321-addEntityLogInstanceName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-010-addValueIdToEntityLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-020-dropDbUpdatePKey.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-030-add_EntityLogAttr_messagesPack.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-040-renameUserPosition.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-050-addUserLanguage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-050-sysFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-055-createReportTables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-060-addReportParameterPosition.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-070-addCodeInFolder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-080-SessionAttributes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-090-ChangeReportKeys.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-100-EntityStatistics.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-100-addPresentations.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-110-AddFieldInSysFolder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-120-AddCodeFieldInSecFilter.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-130-createReportValueFormatTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-140-AddTabHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-150-CreateIndexes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-160-screenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-170-entityStatisticsFetchUI.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-180-changeAppFoldersScriptsLength.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-190-renameDoubleNameInSysFolder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-200-deleteCodeInSysFolders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-210-updateTabNameInSysFolder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-220-reportTablesChangeColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-230-reportParameterAddEnumClass.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-240-userIpMask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-250-entityStatLookupScreenThreshold.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-260-reportTemplatesTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-270-sendingMessagesHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-280-addApplyDefault.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-290-addIsSetToSearchFolder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-300-addEntitySnapshotTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-310-RuntimePropertiesTables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-320-RuntimePropertiesRework.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-330-CategoryAttrAlterType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-340-CategoryDiscriminator.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-350-categoryAttrOrderNo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-360-CategoryAttrScreen.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-370-CategoryAttrRequired.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-380-AlterTypeColumnUrlInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-390-AlterTableSysCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-400-AlterTableSysAttrValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-410-addDataSetParams.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-410-addStartDateToUserSubstitution.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-420-addEntityIdToScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-440-addDropdownToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/01/01-450-alterSecConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-010-addScheduledTasks.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-020-alterDoubleValueColumnInSysAttrValueTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-030-addReportGroup.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-040-addReportRefToBand.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-050-reportLocales.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-060-reportCode.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-070-addRoleType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-080-addSnapshotDate.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-090-schedulingDaylightSaving.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-100-entitySnapshotAuthor.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-110-addDefaultDateIsCurrent.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-120-addUserDescriminator.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-130-alterSecConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-130-queryResults.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-140-entityLogChanges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/02/02-150-alterSysScheduledTask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121002-updateScreenPermissions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121003-addCodeToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121004-addFieldsToScheduledTasks.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121020-addLoginConstraintsForUser.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121024-addEncryptionParamsToUser.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121031-dropPasswordColumnFromScheduledTask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121102-dropSaltColumn.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121114-addDescriptionToScheduledTask.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/12/121228-addJmxInstance.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/130110-removeJmxInstanceDescription.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/130311-renameColumnsForOracle.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/130731-changeServerEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/130918-email-attachment-options.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/130920-email-file-storage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/130923-permissionsToRenamedScreens.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/131108-sending-message-timeshift.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/13/131112-scheduled-task-cron.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/14/140313-ftsQueueIndexingHost.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/14/140405-changeTypeForSysConfigValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/14/140708-addRememberMeTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/14/140716-changeSysFileSizeType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/14/141203-setNotNullSysFileName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150203-sendingMessageEmailHeaders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150203-userTimeZone.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150205-addSubstituteUserInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150226-addIndexInScreenHistory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150310-alterFilterXml.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150417-runtimePropertiesChanges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150514-categoryEntityTypeInAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150630-entityClassToCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/150805-fakeFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/151106-extendScheduledTaskFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/151116-rowLevelSecurity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/151228-sendingMessagesExtendFields.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/15/1512282-addIsActiveToConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160322-dropUniqSysScheduledTaskBeanMethodConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160405-createUniqSysCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160420-createUpdateTsIndexOnSysSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160616-addSizeCategoryAttribute.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160626-createIndexOnFinishTimeScheduledExecution.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160725-anonymousLogin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/160916-addEntityIdToFtsQueue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/161024-collectionDynamicAttributes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/161025-sysAttrValueParentConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/161102-setIsCollectionForExistingCategoryAttrs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/161124-FilterXmlInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/161124-joinAndWhereInCategoryAttr.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/16/270916-addEntityIdToQueryResult.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170214-addEntityIdToSnapshot.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170215-addEntityIdToEntityLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170221-addEntityIdToAttributeValue.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170228-createRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170502-createSessionHistoryTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170620-alterConstraints.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170712-createLocalizedConstraintMessageTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/170829-addLocaleNameColumnToCategory.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/171002-addUserLoginToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/171116-addGlobalDefaultToFilterEntity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/171121-addLocaleToRestApiToken.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/1712011000-createRestApiRefreshTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/1712011010-renameRestApiTokenColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/1712011010-renameRestApiTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/171227-createIndexStartedTsDescToSessionLog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/17/171229-addRefreshTokenColumnToAccessTokenTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/180112-alterDynamicAttributeDoubleType.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/180312-renameColumns.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/180321-addContentBodyTypeColumnToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/180331-truncateQueryResultTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/180704-addNotNullForConfig.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/181024-addCcAndBccToSendingMessage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/18/181210-addUserPasswordEncryption.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/10-cuba/update/postgres/19/190321-addEntityLogInstanceName.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/50-PhoneBook/init/hsql/10.create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/50-PhoneBook/init/hsql/20.create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/50-PhoneBook/init/hsql/30.create-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/50-PhoneBook/update/hsql/19/190608-1-createCalls.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/db/50-PhoneBook/update/hsql/19/190608-2-createCalls.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/distributions/app-core-0.1-SNAPSHOT-db.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/libs/app-core-0.1-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/libs/app-core-0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/resources/main/com/company/phonebook/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/resources/main/com/company/phonebook/core/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/resources/main/com/company/phonebook/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/core/build/tmp/sourceJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/beans-xml/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/classes/java/main/com/company/phonebook/entity/Calls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/classes/java/main/com/company/phonebook/entity/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/classes/java/main/com/company/phonebook/entity/PhoneNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/classes/java/main/com/company/phonebook/entity/PhoneType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/libs/app-global-0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/resources/main/com/company/phonebook/build-info.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/resources/main/com/company/phonebook/entity/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/resources/main/com/company/phonebook/metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/resources/main/com/company/phonebook/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/resources/main/com/company/phonebook/views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/tmp/expandedArchives/cuba-global-7.0.6.jar_cb490f669a0c64b0ade1ce80979e226e/com/haulmont/cuba/base-persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/tmp/expandedArchives/cuba-global-7.0.6.jar_cb490f669a0c64b0ade1ce80979e226e/com/haulmont/cuba/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/global/build/tmp/persistence/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/beans-xml/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/classes/java/main/com/company/phonebook/web/screens/calls/CallsBrowse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/classes/java/main/com/company/phonebook/web/screens/person/PersonBrowse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/classes/java/main/com/company/phonebook/web/screens/person/PersonEdit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/classes/java/main/com/company/phonebook/web/screens/phonenumber/PhoneNumberBrowse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/classes/java/main/com/company/phonebook/web/screens/phonenumber/PhoneNumberEdit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/distributions/app-web-0.1-SNAPSHOT-web.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/libs/app-web-0.1-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/libs/app-web-0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web-app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web-dispatcher-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web-menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web-permissions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web-screens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/calls/calls-browse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/calls/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/person/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/person/person-browse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/person/person-edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/phonenumber/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/phonenumber/phone-number-browse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/resources/main/com/company/phonebook/web/screens/phonenumber/phone-number-edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/web/build/tmp/sourceJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/hsqldb/phonebook/phonebook.lck" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/hsqldb/phonebook/phonebook.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/hsqldb/phonebook/phonebook.log" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/hsqldb/phonebook/phonebook.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/tomcat/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/tomcat/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/tomcat/logs/catalina.2019-06-09.log" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/tomcat/logs/catalina.2019-06-09.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/tomcat/logs/localhost.2019-06-09.log" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/tomcat/logs/localhost.2019-06-09.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/tomcat/logs/localhost_access_log.2019-06-09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/tomcat/logs/localhost_access_log.2019-06-09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/tomcat/logs/perfstat-ui.log" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/tomcat/logs/perfstat-ui.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/tomcat/logs/perfstat.log" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/tomcat/logs/perfstat.log" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -36,88 +487,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/calls/calls-browse.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-          <provider editor-type-id="cuba_designer_properties" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/person/messages.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/calls/CallsBrowse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/global/src/com/company/phonebook/views.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="cuba_view_config" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/person/person-browse.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-            </state>
-          </provider>
-          <provider editor-type-id="cuba_designer_properties" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/person/PersonBrowse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="111" column="46" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/global/src/com/company/phonebook/entity/Calls.java">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-          <provider editor-type-id="cuba_entity_ddl" />
-          <provider selected="true" editor-type-id="cuba_entity_properties" />
-          <provider editor-type-id="cuba_entity_indexes" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/phonenumber/PhoneNumberEdit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="49" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="49" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,6 +496,9 @@
         <option value="Entity" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,6 +523,7 @@
         <option value="$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/person/PersonBrowse.java" />
         <option value="$PROJECT_DIR$/modules/global/src/com/company/phonebook/entity/Calls.java" />
         <option value="$PROJECT_DIR$/modules/web/src/com/company/phonebook/web/screens/calls/CallsBrowse.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -173,21 +547,28 @@
     <option name="width" value="979" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="cubaProjectView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PhoneBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhoneBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="cubaProjectView">
         <subPane>
           <expand>
-            <path>
-              <item name="PhoneBook" type="3e3ce59f:CubaViewProjectNode" />
-              <item name="Project" type="10fe70ea:ProjectSection" />
-            </path>
             <path>
               <item name="PhoneBook" type="3e3ce59f:CubaViewProjectNode" />
               <item name="Data Model" type="9e413f45:DataModelSection" />
@@ -271,11 +652,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="00359988770575" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -311,7 +695,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -321,18 +705,17 @@
       <option name="presentableId" value="Default" />
       <updated>1560003322136</updated>
       <workItem from="1560003327332" duration="20501000" />
-      <workItem from="1560066588467" duration="7312000" />
+      <workItem from="1560066588467" duration="8477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27813000" />
+    <option name="totallyTimeSpent" value="28978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13489933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13422818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -371,6 +754,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Phone book with cuba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phone book with cuba" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -531,6 +918,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>

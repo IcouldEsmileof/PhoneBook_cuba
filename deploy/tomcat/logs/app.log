@@ -546,3 +546,140 @@ To show debug window, add ?debug to your application URL.
 2019-06-09 11:44:49.014 INFO  [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.PersistenceManager - Loading statistics cache
 2019-06-09 11:44:49.174 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
 2019-06-09 11:44:49.226 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:47:51.562 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:47:51.610 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/web-app.properties
+2019-06-09 11:47:55.249 INFO  [main] com.haulmont.cuba.core.sys.remoting.discovery.StaticServerSelector - Server URLs: [http://localhost:8080/app-core/remoting]
+2019-06-09 11:47:55.276 INFO  [main] com.haulmont.cuba.web.sys.remoting.WebRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [cuba_LoginService, cuba_AuthenticationService, cuba_TrustedClientService, cuba_ServerInfoService, cuba_UserSettingService, cuba_UserManagementService, cuba_DataService, cuba_ConfigStorageService, cuba_PersistenceManagerService, cuba_LockService, cuba_UserSessionService, cuba_FoldersService, cuba_EmailService, cuba_FileStorageService, cuba_EntitySnapshotService, cuba_UniqueNumbersService, cuba_LocalizedMessageService, cuba_ResourceService, cuba_ScheduledTasksService, cuba_EntityLogService, cuba_TestingService, cuba_DomainDescriptionService, cuba_RelatedEntitiesService, cuba_EntitySqlGenerationService, cuba_NumberIdService, cuba_QueryResultsService, cuba_DynamicAttributesCacheService, cuba_EntityRestoreService, cuba_LocalFileExchangeService, cuba_EntityImportExportService, cuba_ServerTokenStore, cuba_ConstraintLocalizationService, cuba_AttributeAccessService, cuba_ExceptionReportService, cuba_BulkEditorDataService]
+2019-06-09 11:47:57.004 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:47:57.356 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app.cuba:type=ConfigStorage, app.cuba:type=CachingFacade, app.cuba:type=FileUploading, app.cuba:type=JmxNodeIdentifier, app.cuba:type=JmxLogControl, app.cuba:type=ClassLoaderManager, app.cuba:type=StatisticsCounter]
+2019-06-09 11:47:57.519 DEBUG [main] com.haulmont.cuba.gui.components.impl.ActionsImpl - Actions initialized in 44 ms
+2019-06-09 11:47:57.524 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:47:57.875 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 351 ms
+2019-06-09 11:47:57.903 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:47:57.956 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Initializing Servlet 'dispatcher'
+2019-06-09 11:47:58.357 DEBUG [main] org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+2019-06-09 11:47:59.152 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Completed initialization in 1196 ms
+2019-06-09 11:47:59.153 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Initializing Servlet 'rest_api'
+2019-06-09 11:48:00.379 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Completed initialization in 1226 ms
+2019-06-09 11:48:00.570 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:48:00.591 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/app.properties
+2019-06-09 11:48:00.609 INFO  [main] com.haulmont.cuba.core.sys.AppContextLoader - DbmsType of the main database is set to hsql
+2019-06-09 11:48:00.768 INFO  [main] com.haulmont.cuba.core.sys.persistence.PersistenceConfigProcessor - Creating file D:\CUBA\PhoneBook\deploy\tomcat\work\app-core\persistence.xml
+2019-06-09 11:48:06.993 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:48:07.150 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app-core.cuba:type=PersistenceManager, app-core.cuba:type=ConfigStorage, app-core.cuba:type=UserSessions, app-core.cuba:type=UniqueNumbers, app-core.cuba:type=Emailer, app-core.cuba:type=EntityLog, app-core.cuba:type=FileStorage, app-core.cuba:type=LockManager, app-core.cuba:type=CachingFacade, app-core.cuba:type=ClusterManager, app-core.cuba:type=ScriptingManager, app-core.cuba:type=ServerInfo, app-core.cuba:type=Scheduling, app-core.cuba:type=PasswordEncryptionSupport, app-core.cuba:type=JmxNodeIdentifier, app-core.cuba:type=JmxLogControl, app-core.cuba:type=ClassLoaderManager, app-core.cuba:type=StatisticsCounter, app-core.cuba:type=BruteForceProtection, app-core.cuba:type=QueryCacheSupport, app-core.cuba:type=ServerTokenStore]
+2019-06-09 11:48:07.412 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:48:07.589 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 177 ms
+2019-06-09 11:48:08.161 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Initialize anonymous session
+2019-06-09 11:48:09.562 INFO  [main/app-core/server] com.haulmont.cuba.core.app.ConfigStorage - Loading DB-stored app properties cache
+2019-06-09 11:48:10.297 INFO  [main/app-core/server] com.haulmont.cuba.core.sys.DefaultPermissionValuesConfig - Initializing default permission values
+2019-06-09 11:48:10.496 INFO  [main/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 910b8a95-e5af-5f4d-0bbc-7a1471598873 [anonymous]
+2019-06-09 11:48:10.497 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Anonymous session initialized with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:48:10.498 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:48:10.500 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Initializing Servlet 'remoting'
+2019-06-09 11:48:10.556 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2019-06-09 11:48:10.645 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 11:48:10.753 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Completed initialization in 253 ms
+2019-06-09 11:48:10.948 WARN  [http-nio-8080-exec-3] com.vaadin.server.DefaultDeploymentConfiguration - 
+=================================================================
+Vaadin is running in DEBUG MODE.
+Add productionMode=true to web.xml to disable debug features.
+To show debug window, add ?debug to your application URL.
+=================================================================
+2019-06-09 11:48:23.769 DEBUG [http-nio-8080-exec-4] com.haulmont.cuba.web.App - Initializing application
+2019-06-09 11:48:23.781 DEBUG [http-nio-8080-exec-4] com.haulmont.cuba.gui.theme.ThemeConstantsRepository - Loading theme constants
+2019-06-09 11:48:23.835 DEBUG [http-nio-8080-exec-4] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Loading anonymous session
+2019-06-09 11:48:24.104 DEBUG [http-nio-8080-exec-4] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Anonymous session loaded with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:48:24.121 DEBUG [http-nio-8080-exec-4/app/anonymous] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: false
+2019-06-09 11:48:24.121 DEBUG [http-nio-8080-exec-4/app/anonymous] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:48:24.225 INFO  [http-nio-8080-exec-4/app/anonymous] com.haulmont.cuba.gui.config.WindowConfig - WindowConfig initialized in 89 ms
+2019-06-09 11:48:26.838 INFO  [http-nio-8080-exec-21/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: da0cf8ab-b066-f418-12ce-88efbd5a70a2 [admin]
+2019-06-09 11:48:26.850 DEBUG [http-nio-8080-exec-21/app/admin] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: true
+2019-06-09 11:48:26.852 DEBUG [http-nio-8080-exec-21/app/admin] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:48:26.859 DEBUG [http-nio-8080-exec-21/app/admin] com.haulmont.cuba.web.DefaultApp - Session reinitialized: HttpSession=org.apache.catalina.session.StandardSessionFacade@74016b86, timeout=1800sec, UserSession=da0cf8ab-b066-f418-12ce-88efbd5a70a2 [admin]
+2019-06-09 11:48:27.221 INFO  [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:48:27.244 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.StoreFactory - No implementation is specified for _MAIN_ store, using RdbmsStore
+2019-06-09 11:48:27.269 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2019-06-09 11:48:31.205 INFO  [http-nio-8080-exec-36/app/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:48:31.244 INFO  [http-nio-8080-exec-36/app-core/admin] com.haulmont.cuba.core.app.PersistenceManager - Loading statistics cache
+2019-06-09 11:48:31.390 DEBUG [http-nio-8080-exec-36/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:48:31.434 DEBUG [http-nio-8080-exec-36/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:51:11.612 INFO  [ClientCacheManager-pool-2-thread-1/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: e99a77a8-e4d3-5ae8-42d6-ff5aca35856f [admin]
+2019-06-09 11:51:13.242 INFO  [cuba_web_scheduler-2] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_MenuConfig.reset
+2019-06-09 11:51:13.568 DEBUG [http-nio-8080-exec-1/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:51:13.587 DEBUG [http-nio-8080-exec-1/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:51:25.898 DEBUG [http-nio-8080-exec-10/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:51:25.917 DEBUG [http-nio-8080-exec-10/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Person, view=com.company.phonebook.entity.Person/person-view, query=select e from phonebook_Person e order by e.name, max=5000
+2019-06-09 11:51:25.943 DEBUG [http-nio-8080-exec-10/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber
+2019-06-09 11:51:29.232 DEBUG [http-nio-8080-exec-13/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-7f7c42ce-62f7-b9ca-0f6f-d22272ab9ade [new]], removeInstances=[]
+2019-06-09 11:51:29.233 DEBUG [http-nio-8080-exec-13/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loading entities
+2019-06-09 11:51:29.240 DEBUG [http-nio-8080-exec-13/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loaded: entitiesAuto=0, entitiesManual=0
+2019-06-09 11:51:29.307 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-3749af55-86a9-954b-94dc-646e208906d2 [new]], removeInstances=[]
+2019-06-09 11:51:29.819 DEBUG [http-nio-8080-exec-22/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-986e6e2d-aa0e-6009-1cba-215e4762f7e3 [new]], removeInstances=[]
+2019-06-09 11:51:32.977 DEBUG [http-nio-8080-exec-15/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-43272780-532a-35c6-c3ad-7c291937d73c [new]], removeInstances=[]
+2019-06-09 11:51:33.121 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-cde7b350-838e-87c6-75f1-8e0e30429d24 [new]], removeInstances=[]
+2019-06-09 11:51:36.252 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-92a57246-f27d-a91e-eac4-97d9108ef164 [new]], removeInstances=[]
+2019-06-09 11:51:36.411 DEBUG [http-nio-8080-exec-34/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-7d1ad83b-02d3-c8d7-9b32-2bcab491f7dc [new]], removeInstances=[]
+2019-06-09 11:51:36.539 DEBUG [http-nio-8080-exec-37/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-680e94a9-0232-e98e-53eb-5614e942ee65 [new]], removeInstances=[]
+2019-06-09 11:51:36.715 DEBUG [http-nio-8080-exec-2/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-e06b1a0a-d985-a7ae-78dc-86f681dc22f5 [new]], removeInstances=[]
+2019-06-09 11:51:36.828 DEBUG [http-nio-8080-exec-1/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Calls-ad591f28-0e78-23dd-9fbb-7d01c8a19e0a [new]], removeInstances=[]
+2019-06-09 11:51:43.024 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:51:43.036 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:52:01.329 DEBUG [http-nio-8080-exec-29/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:52:01.341 DEBUG [http-nio-8080-exec-29/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:52:23.267 INFO  [cuba_web_scheduler-3] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_MenuConfig.reset
+2019-06-09 11:52:24.763 DEBUG [http-nio-8080-exec-33/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:52:24.776 DEBUG [http-nio-8080-exec-33/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:52:30.855 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:52:30.865 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:58:07.410 DEBUG [cuba_core_scheduler-9] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 11:58:25.708 DEBUG [http-nio-8080-exec-21/app/admin] com.haulmont.cuba.web.App - Ping middleware session
+2019-06-09 12:02:03.453 INFO  [cuba_web_scheduler-2] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_MenuConfig.reset
+2019-06-09 12:02:04.278 DEBUG [http-nio-8080-exec-36/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 12:02:04.289 DEBUG [http-nio-8080-exec-36/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 12:08:07.411 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 12:08:25.859 DEBUG [http-nio-8080-exec-27/app/admin] com.haulmont.cuba.web.App - Ping middleware session
+2019-06-09 12:11:48.372 DEBUG [http-nio-8080-exec-37/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2019-06-09 12:11:51.476 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 12:11:51.488 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 12:18:07.411 DEBUG [cuba_core_scheduler-8] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 12:28:07.411 DEBUG [cuba_core_scheduler-6] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 12:38:07.411 DEBUG [cuba_core_scheduler-4] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 12:41:57.410 DEBUG [cuba_core_scheduler-6] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: da0cf8ab-b066-f418-12ce-88efbd5a70a2 [admin], since: Sun Jun 09 11:48:26 EEST 2019, lastUsed: Sun Jun 09 12:11:48 EEST 2019
+2019-06-09 12:48:07.411 DEBUG [cuba_core_scheduler-10] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 12:58:07.411 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 13:08:07.410 DEBUG [cuba_core_scheduler-3] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 13:18:07.410 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 13:28:07.410 DEBUG [cuba_core_scheduler-1] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 13:38:07.409 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 13:48:07.411 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 13:58:07.411 DEBUG [cuba_core_scheduler-9] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 14:08:07.410 DEBUG [cuba_core_scheduler-9] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 14:18:07.410 DEBUG [cuba_core_scheduler-7] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 14:28:07.410 DEBUG [cuba_core_scheduler-2] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 14:38:07.409 DEBUG [cuba_core_scheduler-3] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 14:48:07.411 DEBUG [cuba_core_scheduler-10] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 14:58:07.411 DEBUG [cuba_core_scheduler-3] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 15:08:07.410 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 15:18:07.411 DEBUG [cuba_core_scheduler-2] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 15:28:07.411 DEBUG [cuba_core_scheduler-4] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 15:38:07.411 DEBUG [cuba_core_scheduler-1] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 15:48:07.410 DEBUG [cuba_core_scheduler-7] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 15:58:07.410 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 16:08:07.411 DEBUG [cuba_core_scheduler-2] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 16:18:07.411 DEBUG [cuba_core_scheduler-10] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 16:28:07.410 DEBUG [cuba_core_scheduler-4] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 16:38:07.409 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 16:48:07.410 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 16:58:07.410 DEBUG [cuba_core_scheduler-1] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 17:08:07.411 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 17:18:07.411 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 17:28:07.411 DEBUG [cuba_core_scheduler-2] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 17:38:07.410 DEBUG [cuba_core_scheduler-9] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 17:48:07.410 DEBUG [cuba_core_scheduler-7] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 17:58:07.410 DEBUG [cuba_core_scheduler-6] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 18:08:07.410 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 18:18:07.410 DEBUG [cuba_core_scheduler-6] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 18:28:07.410 DEBUG [cuba_core_scheduler-10] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 18:38:07.410 DEBUG [cuba_core_scheduler-8] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 18:48:07.410 DEBUG [cuba_core_scheduler-4] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 18:58:07.413 DEBUG [cuba_core_scheduler-1] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions

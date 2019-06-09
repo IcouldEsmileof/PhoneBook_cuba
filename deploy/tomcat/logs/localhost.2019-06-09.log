@@ -28,3 +28,13 @@
 09-Jun-2019 11:44:23.292 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing AtmosphereFramework
 09-Jun-2019 11:44:23.293 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
 09-Jun-2019 11:44:31.220 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring RemotingServlet 'remoting'
+09-Jun-2019 11:47:51.076 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing AtmosphereFramework
+09-Jun-2019 11:47:51.268 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2019 11:47:57.955 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring CubaDispatcherServlet 'dispatcher'
+09-Jun-2019 11:47:59.153 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring CubaRestApiServlet 'rest_api'
+09-Jun-2019 11:48:00.552 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing AtmosphereFramework
+09-Jun-2019 11:48:00.553 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Jun-2019 11:48:10.500 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring RemotingServlet 'remoting'
+09-Jun-2019 19:03:23.694 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'rest_api'
+09-Jun-2019 19:03:23.709 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+09-Jun-2019 19:03:23.756 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'remoting'

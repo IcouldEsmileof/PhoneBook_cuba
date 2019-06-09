@@ -144,3 +144,729 @@ phonebook_Calls.browse#load                              4,0           4        
 phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
 phonebook_Calls.browse#xml                               1,0           1           1         0,0           1
 
+Performance Statistics   2019-06-09 11:48:00 - 2019-06-09 11:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        802,0         802         802         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     217,0         217         217         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                      82,0          82          82         0,0           1
+loginWindow#load                                       763,0         763         763         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          7,0           0          14         7,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         20,0          20          20         0,0           1
+mainWindow#inject                                       16,0          16          16         0,0           1
+mainWindow#load                                        291,0         291         291         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+phonebook_Calls.browse#afterShow                         2,0           2           2         0,0           1
+phonebook_Calls.browse#beforeShow                       62,0          62          62         0,0           1
+phonebook_Calls.browse#create                           15,0          15          15         0,0           1
+phonebook_Calls.browse#init                             26,0          26          26         0,0           1
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           1
+phonebook_Calls.browse#load                            585,0         585         585         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               5,0           5           5         0,0           1
+
+Performance Statistics   2019-06-09 11:50:00 - 2019-06-09 11:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        519,0          43         995       476,0           2
+MenuItem.phonebook_Person.browse                       514,0         514         514         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           2
+phonebook_Calls.browse#beforeShow                       17,5          15          20         2,5           2
+phonebook_Calls.browse#create                            0,0           0           0         0,0           2
+phonebook_Calls.browse#init                              0,0           0           0         0,0           2
+phonebook_Calls.browse#inject                            1,5           0           3         1,5           2
+phonebook_Calls.browse#load                              5,0           4           6         1,0           2
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           2
+phonebook_Calls.browse#xml                               0,5           0           1         0,5           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      37,0          37          37         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                          13,0          13          13         0,0           1
+phonebook_Person.browse#load                           419,0         419         419         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-09 11:52:00 - 2019-06-09 11:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        153,0          33         384       163,4           3
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           3
+phonebook_Calls.browse#beforeShow                       12,3          12          13         0,5           3
+phonebook_Calls.browse#create                            0,0           0           0         0,0           3
+phonebook_Calls.browse#init                              0,0           0           0         0,0           3
+phonebook_Calls.browse#inject                            0,7           0           2         0,9           3
+phonebook_Calls.browse#load                              3,3           3           4         0,5           3
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           3
+phonebook_Calls.browse#xml                               0,7           0           1         0,5           3
+
+Performance Statistics   2019-06-09 11:54:00 - 2019-06-09 11:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 11:56:00 - 2019-06-09 11:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 11:58:00 - 2019-06-09 12:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:00:00 - 2019-06-09 12:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:02:00 - 2019-06-09 12:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        332,0         332         332         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       14,0          14          14         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            1,0           1           1         0,0           1
+phonebook_Calls.browse#load                              5,0           5           5         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-09 12:04:00 - 2019-06-09 12:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:06:00 - 2019-06-09 12:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:08:00 - 2019-06-09 12:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:10:00 - 2019-06-09 12:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         43,0          43          43         0,0           1
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                        6,0           6           6         0,0           1
+mainWindow#init                                          0,0           0           0         0,0           1
+mainWindow#inject                                        0,0           0           0         0,0           1
+mainWindow#load                                         14,0          14          14         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,0           0           2         1,0           2
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       13,0          13          13         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           1
+phonebook_Calls.browse#load                              4,0           4           4         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               2,0           2           2         0,0           1
+
+Performance Statistics   2019-06-09 12:12:00 - 2019-06-09 12:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:14:00 - 2019-06-09 12:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:16:00 - 2019-06-09 12:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:18:00 - 2019-06-09 12:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:20:00 - 2019-06-09 12:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:22:00 - 2019-06-09 12:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:24:00 - 2019-06-09 12:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:26:00 - 2019-06-09 12:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:28:00 - 2019-06-09 12:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:30:00 - 2019-06-09 12:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:32:00 - 2019-06-09 12:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:34:00 - 2019-06-09 12:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:36:00 - 2019-06-09 12:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:38:00 - 2019-06-09 12:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:40:00 - 2019-06-09 12:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:42:00 - 2019-06-09 12:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:44:00 - 2019-06-09 12:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:46:00 - 2019-06-09 12:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:48:00 - 2019-06-09 12:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:50:00 - 2019-06-09 12:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:52:00 - 2019-06-09 12:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:54:00 - 2019-06-09 12:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:56:00 - 2019-06-09 12:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 12:58:00 - 2019-06-09 13:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:00:00 - 2019-06-09 13:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:02:00 - 2019-06-09 13:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:04:00 - 2019-06-09 13:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:06:00 - 2019-06-09 13:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:08:00 - 2019-06-09 13:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:10:00 - 2019-06-09 13:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:12:00 - 2019-06-09 13:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:14:00 - 2019-06-09 13:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:16:00 - 2019-06-09 13:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:18:00 - 2019-06-09 13:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:20:00 - 2019-06-09 13:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:22:00 - 2019-06-09 13:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:24:00 - 2019-06-09 13:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:26:00 - 2019-06-09 13:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:28:00 - 2019-06-09 13:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:30:00 - 2019-06-09 13:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:32:00 - 2019-06-09 13:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:34:00 - 2019-06-09 13:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:36:00 - 2019-06-09 13:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:38:00 - 2019-06-09 13:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:40:00 - 2019-06-09 13:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:42:00 - 2019-06-09 13:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:44:00 - 2019-06-09 13:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:46:00 - 2019-06-09 13:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:48:00 - 2019-06-09 13:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:50:00 - 2019-06-09 13:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:52:00 - 2019-06-09 13:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:54:00 - 2019-06-09 13:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:56:00 - 2019-06-09 13:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 13:58:00 - 2019-06-09 14:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:00:00 - 2019-06-09 14:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:02:00 - 2019-06-09 14:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:04:00 - 2019-06-09 14:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:06:00 - 2019-06-09 14:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:08:00 - 2019-06-09 14:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:10:00 - 2019-06-09 14:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:12:00 - 2019-06-09 14:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:14:00 - 2019-06-09 14:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:16:00 - 2019-06-09 14:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:18:00 - 2019-06-09 14:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:20:00 - 2019-06-09 14:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:22:00 - 2019-06-09 14:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:24:00 - 2019-06-09 14:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:26:00 - 2019-06-09 14:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:28:00 - 2019-06-09 14:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:30:00 - 2019-06-09 14:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:32:00 - 2019-06-09 14:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:34:00 - 2019-06-09 14:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:36:00 - 2019-06-09 14:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:38:00 - 2019-06-09 14:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:40:00 - 2019-06-09 14:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:42:00 - 2019-06-09 14:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:44:00 - 2019-06-09 14:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:46:00 - 2019-06-09 14:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:48:00 - 2019-06-09 14:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:50:00 - 2019-06-09 14:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:52:00 - 2019-06-09 14:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:54:00 - 2019-06-09 14:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:56:00 - 2019-06-09 14:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 14:58:00 - 2019-06-09 15:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:00:00 - 2019-06-09 15:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:02:00 - 2019-06-09 15:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:04:00 - 2019-06-09 15:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:06:00 - 2019-06-09 15:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:08:00 - 2019-06-09 15:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:10:00 - 2019-06-09 15:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:12:00 - 2019-06-09 15:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:14:00 - 2019-06-09 15:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:16:00 - 2019-06-09 15:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:18:00 - 2019-06-09 15:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:20:00 - 2019-06-09 15:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:22:00 - 2019-06-09 15:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:24:00 - 2019-06-09 15:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:26:00 - 2019-06-09 15:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:28:00 - 2019-06-09 15:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:30:00 - 2019-06-09 15:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:32:00 - 2019-06-09 15:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:34:00 - 2019-06-09 15:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:36:00 - 2019-06-09 15:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:38:00 - 2019-06-09 15:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:40:00 - 2019-06-09 15:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:42:00 - 2019-06-09 15:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:44:00 - 2019-06-09 15:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:46:00 - 2019-06-09 15:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:48:00 - 2019-06-09 15:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:50:00 - 2019-06-09 15:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:52:00 - 2019-06-09 15:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:54:00 - 2019-06-09 15:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:56:00 - 2019-06-09 15:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 15:58:00 - 2019-06-09 16:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:00:00 - 2019-06-09 16:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:02:00 - 2019-06-09 16:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:04:00 - 2019-06-09 16:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:06:00 - 2019-06-09 16:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:08:00 - 2019-06-09 16:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:10:00 - 2019-06-09 16:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:12:00 - 2019-06-09 16:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:14:00 - 2019-06-09 16:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:16:00 - 2019-06-09 16:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:18:00 - 2019-06-09 16:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:20:00 - 2019-06-09 16:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:22:00 - 2019-06-09 16:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:24:00 - 2019-06-09 16:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:26:00 - 2019-06-09 16:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:28:00 - 2019-06-09 16:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:30:00 - 2019-06-09 16:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:32:00 - 2019-06-09 16:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:34:00 - 2019-06-09 16:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:36:00 - 2019-06-09 16:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:38:00 - 2019-06-09 16:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:40:00 - 2019-06-09 16:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:42:00 - 2019-06-09 16:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:44:00 - 2019-06-09 16:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:46:00 - 2019-06-09 16:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:48:00 - 2019-06-09 16:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:50:00 - 2019-06-09 16:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:52:00 - 2019-06-09 16:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:54:00 - 2019-06-09 16:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:56:00 - 2019-06-09 16:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 16:58:00 - 2019-06-09 17:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:00:00 - 2019-06-09 17:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:02:00 - 2019-06-09 17:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:04:00 - 2019-06-09 17:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:06:00 - 2019-06-09 17:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:08:00 - 2019-06-09 17:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:10:00 - 2019-06-09 17:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:12:00 - 2019-06-09 17:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:14:00 - 2019-06-09 17:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:16:00 - 2019-06-09 17:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:18:00 - 2019-06-09 17:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:20:00 - 2019-06-09 17:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:22:00 - 2019-06-09 17:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:24:00 - 2019-06-09 17:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:26:00 - 2019-06-09 17:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:28:00 - 2019-06-09 17:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:30:00 - 2019-06-09 17:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:32:00 - 2019-06-09 17:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:34:00 - 2019-06-09 17:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:36:00 - 2019-06-09 17:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:38:00 - 2019-06-09 17:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:40:00 - 2019-06-09 17:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:42:00 - 2019-06-09 17:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:44:00 - 2019-06-09 17:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:46:00 - 2019-06-09 17:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:48:00 - 2019-06-09 17:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:50:00 - 2019-06-09 17:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:52:00 - 2019-06-09 17:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:54:00 - 2019-06-09 17:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:56:00 - 2019-06-09 17:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 17:58:00 - 2019-06-09 18:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:00:00 - 2019-06-09 18:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:02:00 - 2019-06-09 18:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:04:00 - 2019-06-09 18:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:06:00 - 2019-06-09 18:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:08:00 - 2019-06-09 18:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:10:00 - 2019-06-09 18:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:12:00 - 2019-06-09 18:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:14:00 - 2019-06-09 18:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:16:00 - 2019-06-09 18:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:18:00 - 2019-06-09 18:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:20:00 - 2019-06-09 18:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:22:00 - 2019-06-09 18:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:24:00 - 2019-06-09 18:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:26:00 - 2019-06-09 18:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:28:00 - 2019-06-09 18:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:30:00 - 2019-06-09 18:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:32:00 - 2019-06-09 18:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:34:00 - 2019-06-09 18:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:36:00 - 2019-06-09 18:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:38:00 - 2019-06-09 18:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:40:00 - 2019-06-09 18:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:42:00 - 2019-06-09 18:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:44:00 - 2019-06-09 18:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:46:00 - 2019-06-09 18:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:48:00 - 2019-06-09 18:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:50:00 - 2019-06-09 18:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:52:00 - 2019-06-09 18:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:54:00 - 2019-06-09 18:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:56:00 - 2019-06-09 18:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-09 18:58:00 - 2019-06-09 19:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
