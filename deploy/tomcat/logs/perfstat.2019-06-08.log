@@ -1,0 +1,1216 @@
+Performance Statistics   2019-06-08 18:31:00 - 2019-06-08 18:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                2,1           0           5         1,5          14
+Messages.searchClasspath                                 0,2           0          19         1,3         380
+Messages.searchFiles                                     0,1           0          22         1,1         380
+Metadata.replaceExtendedMetaClasses                      1,0           1           1         0,0           2
+WebJARs                                                 21,0          21          21         0,0           1
+
+Performance Statistics   2019-06-08 18:32:00 - 2019-06-08 18:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           3
+
+Performance Statistics   2019-06-08 18:33:00 - 2019-06-08 18:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:34:00 - 2019-06-08 18:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:35:00 - 2019-06-08 18:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:36:00 - 2019-06-08 18:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:37:00 - 2019-06-08 18:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                             1237,0        1237        1237         0,0           1
+
+Performance Statistics   2019-06-08 18:37:00 - 2019-06-08 18:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,1           0           2         0,6          12
+Messages.searchClasspath                                 0,3           0           9         1,3         114
+Messages.searchFiles                                     0,1           0          11         1,0         114
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+WebJARs                                                  8,0           8           8         0,0           1
+
+Performance Statistics   2019-06-08 18:38:00 - 2019-06-08 18:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:39:00 - 2019-06-08 18:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,5           0           5         1,6           8
+Messages.searchClasspath                                 0,1           0           5         0,3         466
+Messages.searchFiles                                     0,0           0           0         0,0         466
+PersistenceSecurity.applyConstraints(..)                 0,4           0           2         0,7           7
+ViewRepository.init.ViewRepositoryClientImpl            14,0          14          14         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  18,0          18          18         0,0           1
+
+Performance Statistics   2019-06-08 18:40:00 - 2019-06-08 18:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:41:00 - 2019-06-08 18:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:42:00 - 2019-06-08 18:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:43:00 - 2019-06-08 18:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:44:00 - 2019-06-08 18:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:45:00 - 2019-06-08 18:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:46:00 - 2019-06-08 18:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:47:00 - 2019-06-08 18:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:48:00 - 2019-06-08 18:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:49:00 - 2019-06-08 18:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:50:00 - 2019-06-08 18:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:51:00 - 2019-06-08 18:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:52:00 - 2019-06-08 18:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:53:00 - 2019-06-08 18:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:54:00 - 2019-06-08 18:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:55:00 - 2019-06-08 18:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:56:00 - 2019-06-08 18:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:57:00 - 2019-06-08 18:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:58:00 - 2019-06-08 18:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:59:00 - 2019-06-08 19:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:00:00 - 2019-06-08 19:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:01:00 - 2019-06-08 19:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:02:00 - 2019-06-08 19:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:03:00 - 2019-06-08 19:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:04:00 - 2019-06-08 19:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:05:00 - 2019-06-08 19:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:06:00 - 2019-06-08 19:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:07:00 - 2019-06-08 19:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:08:00 - 2019-06-08 19:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:09:00 - 2019-06-08 19:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:10:00 - 2019-06-08 19:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:11:00 - 2019-06-08 19:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:12:00 - 2019-06-08 19:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:13:00 - 2019-06-08 19:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:14:00 - 2019-06-08 19:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:15:00 - 2019-06-08 19:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:16:00 - 2019-06-08 19:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:17:00 - 2019-06-08 19:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:18:00 - 2019-06-08 19:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:19:00 - 2019-06-08 19:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:20:00 - 2019-06-08 19:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:21:00 - 2019-06-08 19:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:22:00 - 2019-06-08 19:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:23:00 - 2019-06-08 19:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:24:00 - 2019-06-08 19:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:25:00 - 2019-06-08 19:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:26:00 - 2019-06-08 19:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:27:00 - 2019-06-08 19:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:28:00 - 2019-06-08 19:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:29:00 - 2019-06-08 19:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:30:00 - 2019-06-08 19:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:31:00 - 2019-06-08 19:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:32:00 - 2019-06-08 19:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:33:00 - 2019-06-08 19:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:34:00 - 2019-06-08 19:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:35:00 - 2019-06-08 19:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Messages.searchClasspath                                 0,9           0          11         2,5          24
+Messages.searchFiles                                     0,0           0           1         0,2          24
+
+Performance Statistics   2019-06-08 19:37:00 - 2019-06-08 19:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,4           0           3         0,9          12
+Messages.searchClasspath                                 1,0           0          16         3,1          50
+Messages.searchFiles                                     0,5           0          26         3,6          50
+Metadata.replaceExtendedMetaClasses                      2,0           2           2         0,0           1
+WebJARs                                                 17,0          17          17         0,0           1
+
+Performance Statistics   2019-06-08 19:38:00 - 2019-06-08 19:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                5,0           2           9         2,9           3
+Messages.searchClasspath                                 0,1           0           9         0,7         490
+Messages.searchFiles                                     0,0           0           2         0,1         490
+Metadata.replaceExtendedMetaClasses                      3,0           3           3         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,8           0           2         0,8           4
+ViewRepository.init.ViewRepositoryClientImpl            25,0          25          25         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  16,0          16          16         0,0           1
+
+Performance Statistics   2019-06-08 19:39:00 - 2019-06-08 19:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           2
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           6
+
+Performance Statistics   2019-06-08 19:40:00 - 2019-06-08 19:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,7           0           2         0,7           6
+Messages.searchClasspath                                 0,0           0           2         0,2         118
+Messages.searchFiles                                     0,0           0           0         0,0         118
+PersistenceSecurity.applyConstraints(..)                 0,8           0           5         1,9           6
+
+Performance Statistics   2019-06-08 19:41:00 - 2019-06-08 19:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           4
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           8
+
+Performance Statistics   2019-06-08 19:42:00 - 2019-06-08 19:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           2
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           5
+
+Performance Statistics   2019-06-08 19:43:00 - 2019-06-08 19:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:44:00 - 2019-06-08 19:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:45:00 - 2019-06-08 19:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:46:00 - 2019-06-08 19:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:47:00 - 2019-06-08 19:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:48:00 - 2019-06-08 19:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:49:00 - 2019-06-08 19:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:50:00 - 2019-06-08 19:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:51:00 - 2019-06-08 19:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:52:00 - 2019-06-08 19:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:53:00 - 2019-06-08 19:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:54:00 - 2019-06-08 19:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:55:00 - 2019-06-08 19:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:56:00 - 2019-06-08 19:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:57:00 - 2019-06-08 19:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:58:00 - 2019-06-08 19:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:59:00 - 2019-06-08 20:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:00:00 - 2019-06-08 20:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:01:00 - 2019-06-08 20:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:02:00 - 2019-06-08 20:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:03:00 - 2019-06-08 20:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:04:00 - 2019-06-08 20:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:05:00 - 2019-06-08 20:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:06:00 - 2019-06-08 20:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:07:00 - 2019-06-08 20:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:08:00 - 2019-06-08 20:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:09:00 - 2019-06-08 20:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:10:00 - 2019-06-08 20:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:11:00 - 2019-06-08 20:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:12:00 - 2019-06-08 20:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:13:00 - 2019-06-08 20:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:14:00 - 2019-06-08 20:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:15:00 - 2019-06-08 20:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:16:00 - 2019-06-08 20:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:17:00 - 2019-06-08 20:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:18:00 - 2019-06-08 20:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:19:00 - 2019-06-08 20:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:20:00 - 2019-06-08 20:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:21:00 - 2019-06-08 20:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:22:00 - 2019-06-08 20:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:23:00 - 2019-06-08 20:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:24:00 - 2019-06-08 20:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:25:00 - 2019-06-08 20:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:26:00 - 2019-06-08 20:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:27:00 - 2019-06-08 20:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:28:00 - 2019-06-08 20:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:29:00 - 2019-06-08 20:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:30:00 - 2019-06-08 20:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:31:00 - 2019-06-08 20:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:32:00 - 2019-06-08 20:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:33:00 - 2019-06-08 20:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:34:00 - 2019-06-08 20:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:35:00 - 2019-06-08 20:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:36:00 - 2019-06-08 20:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:37:00 - 2019-06-08 20:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:38:00 - 2019-06-08 20:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:39:00 - 2019-06-08 20:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:40:00 - 2019-06-08 20:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:41:00 - 2019-06-08 20:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:42:00 - 2019-06-08 20:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:43:00 - 2019-06-08 20:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:44:00 - 2019-06-08 20:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:45:00 - 2019-06-08 20:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:46:00 - 2019-06-08 20:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:47:00 - 2019-06-08 20:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:48:00 - 2019-06-08 20:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:49:00 - 2019-06-08 20:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:50:00 - 2019-06-08 20:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:51:00 - 2019-06-08 20:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:53:00 - 2019-06-08 20:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                2,3           0           9         2,4          15
+Messages.searchClasspath                                 0,2           0          20         1,4         556
+Messages.searchFiles                                     0,1           0          37         1,6         556
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+PersistenceSecurity.applyConstraints(..)                 1,3           0           4         1,6           4
+ViewRepository.init.ViewRepositoryClientImpl            31,0          31          31         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  39,0          39          39         0,0           1
+WebJARs                                                 16,0          16          16         0,0           1
+
+Performance Statistics   2019-06-08 20:54:00 - 2019-06-08 20:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:55:00 - 2019-06-08 20:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:56:00 - 2019-06-08 20:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:57:00 - 2019-06-08 20:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                             1172,0        1172        1172         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           3
+
+Performance Statistics   2019-06-08 20:58:00 - 2019-06-08 20:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                2,1           0           9         2,2          16
+Messages.searchClasspath                                 0,2           0          14         1,0         574
+Messages.searchFiles                                     0,1           0          37         1,5         574
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+PersistenceSecurity.applyConstraints(..)                 0,8           0           3         1,1           6
+ViewRepository.init.ViewRepositoryClientImpl            20,0          20          20         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  24,0          24          24         0,0           1
+WebJARs                                                 10,0          10          10         0,0           1
+
+Performance Statistics   2019-06-08 21:01:00 - 2019-06-08 21:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                2,3           0          11         2,6          15
+Messages.searchClasspath                                 0,2           0          28         1,6         560
+Messages.searchFiles                                     0,1           0          27         1,2         560
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+PersistenceSecurity.applyConstraints(..)                 1,3           0           3         1,1           4
+ViewRepository.init.ViewRepositoryClientImpl            44,0          44          44         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  25,0          25          25         0,0           1
+WebJARs                                                 13,0          13          13         0,0           1
+
+Performance Statistics   2019-06-08 21:02:00 - 2019-06-08 21:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:03:00 - 2019-06-08 21:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:04:00 - 2019-06-08 21:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:05:00 - 2019-06-08 21:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                             1240,0        1240        1240         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,3           0           1         0,5           3
+
+Performance Statistics   2019-06-08 21:06:00 - 2019-06-08 21:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,5           0           3         1,0          12
+Messages.searchClasspath                                 1,2           0          24         4,2          50
+Messages.searchFiles                                     1,0           0          44         6,2          50
+Metadata.replaceExtendedMetaClasses                      2,0           2           2         0,0           1
+WebJARs                                                 12,0          12          12         0,0           1
+
+Performance Statistics   2019-06-08 21:07:00 - 2019-06-08 21:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                7,3           6          10         1,9           3
+Messages.searchClasspath                                 0,2           0          18         1,4         506
+Messages.searchFiles                                     0,0           0           2         0,1         506
+Metadata.replaceExtendedMetaClasses                      1,0           1           1         0,0           1
+PersistenceSecurity.applyConstraints(..)                 1,3           0           4         1,6           4
+ViewRepository.init.ViewRepositoryClientImpl            23,0          23          23         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  22,0          22          22         0,0           1
+
+Performance Statistics   2019-06-08 21:08:00 - 2019-06-08 21:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:10:00 - 2019-06-08 21:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                2,0           0           8         2,0          15
+Messages.searchClasspath                                 0,2           0          20         1,3         556
+Messages.searchFiles                                     0,0           0          25         1,1         556
+Metadata.replaceExtendedMetaClasses                      3,0           3           3         0,0           2
+PersistenceSecurity.applyConstraints(..)                 1,7           0           6         2,5           4
+ViewRepository.init.ViewRepositoryClientImpl            19,0          19          19         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  24,0          24          24         0,0           1
+WebJARs                                                 19,0          19          19         0,0           1
+
+Performance Statistics   2019-06-08 21:11:00 - 2019-06-08 21:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Messages.searchClasspath                                 0,0           0           0         0,0           4
+Messages.searchFiles                                     0,0           0           0         0,0           4
+
+Performance Statistics   2019-06-08 21:12:00 - 2019-06-08 21:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                             1548,0        1548        1548         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,3           0           1         0,5           3
+
+Performance Statistics   2019-06-08 21:13:00 - 2019-06-08 21:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              379,0         379         379         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           3
+
+Performance Statistics   2019-06-08 21:14:00 - 2019-06-08 21:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:15:00 - 2019-06-08 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:16:00 - 2019-06-08 21:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:17:00 - 2019-06-08 21:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:18:00 - 2019-06-08 21:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:19:00 - 2019-06-08 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:20:00 - 2019-06-08 21:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,0           1           1         0,0           1
+Messages.searchClasspath                                 0,1           0           1         0,3          19
+Messages.searchFiles                                     0,0           0           0         0,0          19
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 21:21:00 - 2019-06-08 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:22:00 - 2019-06-08 21:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:23:00 - 2019-06-08 21:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:24:00 - 2019-06-08 21:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:25:00 - 2019-06-08 21:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:26:00 - 2019-06-08 21:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:27:00 - 2019-06-08 21:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              143,0           0         286       143,0           2
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           5
+
+Performance Statistics   2019-06-08 21:28:00 - 2019-06-08 21:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,0           1           1         0,0           1
+Messages.searchClasspath                                 0,1           0           1         0,3          14
+Messages.searchFiles                                     0,0           0           0         0,0          14
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 21:29:00 - 2019-06-08 21:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:30:00 - 2019-06-08 21:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           5
+Messages.searchClasspath                                 0,0           0           0         0,0          34
+Messages.searchFiles                                     0,0           0           0         0,0          34
+PersistenceSecurity.applyConstraints(..)                 1,3           0           7         2,6           6
+
+Performance Statistics   2019-06-08 21:31:00 - 2019-06-08 21:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,5           0           1         0,5           2
+Messages.searchClasspath                                 0,0           0           0         0,0          31
+Messages.searchFiles                                     0,0           0           0         0,0          31
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 21:32:00 - 2019-06-08 21:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           3
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           3
+
+Performance Statistics   2019-06-08 21:33:00 - 2019-06-08 21:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           4
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 21:34:00 - 2019-06-08 21:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,1           0           6         1,6          17
+Messages.searchClasspath                                 0,1           0          16         0,9         597
+Messages.searchFiles                                     0,0           0          15         0,6         597
+Metadata.replaceExtendedMetaClasses                      2,0           1           3         1,0           2
+PersistenceSecurity.applyConstraints(..)                 0,8           0           3         1,3           4
+ViewRepository.init.ViewRepositoryClientImpl            18,0          18          18         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  22,0          22          22         0,0           1
+WebJARs                                                 14,0          14          14         0,0           1
+
+Performance Statistics   2019-06-08 21:35:00 - 2019-06-08 21:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:36:00 - 2019-06-08 21:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:37:00 - 2019-06-08 21:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:38:00 - 2019-06-08 21:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:39:00 - 2019-06-08 21:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:40:00 - 2019-06-08 21:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:41:00 - 2019-06-08 21:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:42:00 - 2019-06-08 21:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:43:00 - 2019-06-08 21:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:44:00 - 2019-06-08 21:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:45:00 - 2019-06-08 21:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:46:00 - 2019-06-08 21:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:47:00 - 2019-06-08 21:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:48:00 - 2019-06-08 21:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:49:00 - 2019-06-08 21:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:50:00 - 2019-06-08 21:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:51:00 - 2019-06-08 21:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:54:00 - 2019-06-08 21:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,9           0           2         0,6          12
+Messages.searchClasspath                                 0,5           0          16         2,0         114
+Messages.searchFiles                                     0,2           0          26         2,4         114
+Metadata.replaceExtendedMetaClasses                      3,5           3           4         0,5           2
+WebJARs                                                 14,0          14          14         0,0           1
+
+Performance Statistics   2019-06-08 21:55:00 - 2019-06-08 21:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:56:00 - 2019-06-08 21:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:57:00 - 2019-06-08 21:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                3,4           0           8         2,6           5
+Messages.searchClasspath                                 0,1           0           6         0,5         456
+Messages.searchFiles                                     0,0           0           0         0,0         456
+PersistenceSecurity.applyConstraints(..)                 3,5           0          13         5,5           4
+ViewRepository.init.ViewRepositoryClientImpl            21,0          21          21         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  19,0          19          19         0,0           1
+
+Performance Statistics   2019-06-08 21:58:00 - 2019-06-08 21:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,5           0           1         0,5           2
+Messages.searchClasspath                                 0,1           0           1         0,2          31
+Messages.searchFiles                                     0,0           0           0         0,0          31
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 21:59:00 - 2019-06-08 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           1
+Messages.searchClasspath                                 0,0           0           0         0,0          20
+Messages.searchFiles                                     0,0           0           0         0,0          20
+
+Performance Statistics   2019-06-08 21:59:00 - 2019-06-08 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,2           0           5         1,4          19
+Messages.searchClasspath                                 0,1           0          12         0,8         591
+Messages.searchFiles                                     0,0           0          15         0,6         591
+Metadata.replaceExtendedMetaClasses                      1,0           1           1         0,0           2
+PersistenceSecurity.applyConstraints(..)                 0,8           0           3         1,2           5
+ViewRepository.init.ViewRepositoryClientImpl            19,0          19          19         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  36,0          36          36         0,0           1
+WebJARs                                                 12,0          12          12         0,0           1
+
+Performance Statistics   2019-06-08 22:00:00 - 2019-06-08 22:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Messages.searchClasspath                                 0,0           0           0         0,0          10
+Messages.searchFiles                                     0,0           0           0         0,0          10
+
+Performance Statistics   2019-06-08 22:01:00 - 2019-06-08 22:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,0           0           4         1,1          23
+Messages.searchClasspath                                 0,1           0          13         0,9         596
+Messages.searchFiles                                     0,0           0          25         1,0         596
+Metadata.replaceExtendedMetaClasses                      1,0           1           1         0,0           2
+PersistenceSecurity.applyConstraints(..)                 0,9           0           5         1,7           7
+ViewRepository.init.ViewRepositoryClientImpl            19,0          19          19         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  18,0          18          18         0,0           1
+WebJARs                                                 11,0          11          11         0,0           1
+
+Performance Statistics   2019-06-08 22:02:00 - 2019-06-08 22:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,0           1           1         0,0           1
+Messages.searchClasspath                                 0,0           0           0         0,0          64
+Messages.searchFiles                                     0,0           0           0         0,0          64
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+PersistenceSecurity.assertToken(..)                      0,3           0           1         0,4           4
+
+Performance Statistics   2019-06-08 22:03:00 - 2019-06-08 22:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:04:00 - 2019-06-08 22:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:05:00 - 2019-06-08 22:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:06:00 - 2019-06-08 22:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:07:00 - 2019-06-08 22:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:08:00 - 2019-06-08 22:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:09:00 - 2019-06-08 22:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:10:00 - 2019-06-08 22:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:11:00 - 2019-06-08 22:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:14:00 - 2019-06-08 22:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,6           0           5         1,2          17
+Messages.searchClasspath                                 0,1           0          11         0,8         609
+Messages.searchFiles                                     0,0           0          15         0,6         609
+Metadata.replaceExtendedMetaClasses                      1,0           1           1         0,0           2
+PersistenceSecurity.applyConstraints(..)                 0,5           0           3         1,0           8
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+ViewRepository.init.ViewRepositoryClientImpl            21,0          21          21         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  20,0          20          20         0,0           1
+WebJARs                                                  9,0           9           9         0,0           1
+
+Performance Statistics   2019-06-08 22:15:00 - 2019-06-08 22:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 22:28:00 - 2019-06-08 22:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,3           0           5         1,3          19
+Messages.searchClasspath                                 0,1           0          12         0,8         602
+Messages.searchFiles                                     0,0           0          14         0,6         602
+Metadata.replaceExtendedMetaClasses                      1,0           1           1         0,0           2
+PersistenceSecurity.applyConstraints(..)                 0,6           0           2         0,8           5
+ViewRepository.init.ViewRepositoryClientImpl            23,0          23          23         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  17,0          17          17         0,0           1
+WebJARs                                                  9,0           9           9         0,0           1
+
+Performance Statistics   2019-06-08 22:29:00 - 2019-06-08 22:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,0           1           1         0,0           1
+Messages.searchClasspath                                 0,0           0           1         0,2          26
+Messages.searchFiles                                     0,0           0           0         0,0          26
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 22:30:00 - 2019-06-08 22:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:31:00 - 2019-06-08 22:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:32:00 - 2019-06-08 22:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:33:00 - 2019-06-08 22:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:35:00 - 2019-06-08 22:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,5           0           2         0,6          12
+Messages.searchClasspath                                 0,4           0          10         1,4         114
+Messages.searchFiles                                     0,1           0          13         1,2         114
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+WebJARs                                                 10,0          10          10         0,0           1
+
+Performance Statistics   2019-06-08 22:36:00 - 2019-06-08 22:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                3,5           0           5         2,1           4
+Messages.searchClasspath                                 0,1           0           6         0,4         463
+Messages.searchFiles                                     0,0           0           0         0,0         463
+PersistenceSecurity.applyConstraints(..)                 0,7           0           3         1,1           6
+ViewRepository.init.ViewRepositoryClientImpl            22,0          22          22         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  22,0          22          22         0,0           1
+
+Performance Statistics   2019-06-08 22:37:00 - 2019-06-08 22:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:38:00 - 2019-06-08 22:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:39:00 - 2019-06-08 22:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:40:00 - 2019-06-08 22:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:41:00 - 2019-06-08 22:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:42:00 - 2019-06-08 22:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:44:00 - 2019-06-08 22:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,1           0           5         1,7          15
+Messages.searchClasspath                                 0,1           0           9         0,7         536
+Messages.searchFiles                                     0,0           0          12         0,5         536
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+PersistenceSecurity.applyConstraints(..)                 1,0           0           3         1,2           4
+ViewRepository.init.ViewRepositoryClientImpl            17,0          17          17         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  20,0          20          20         0,0           1
+WebJARs                                                 12,0          12          12         0,0           1
+
+Performance Statistics   2019-06-08 22:45:00 - 2019-06-08 22:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,5           0           1         0,5           2
+Messages.searchClasspath                                 0,1           0           1         0,3          43
+Messages.searchFiles                                     0,0           0           0         0,0          43
+PersistenceSecurity.applyConstraints(..)                 0,3           0           1         0,5           3
+
+Performance Statistics   2019-06-08 22:46:00 - 2019-06-08 22:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,6           0           3         1,0           7
+Messages.searchClasspath                                 0,0           0           2         0,3          69
+Messages.searchFiles                                     0,0           0           0         0,0          69
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           9
+
+Performance Statistics   2019-06-08 22:47:00 - 2019-06-08 22:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           6
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           3
+
+Performance Statistics   2019-06-08 22:48:00 - 2019-06-08 22:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           3
+Messages.searchClasspath                                 0,0           0           0         0,0           5
+Messages.searchFiles                                     0,0           0           0         0,0           5
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           4
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 22:49:00 - 2019-06-08 22:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           1
+PersistenceSecurity.applyConstraints(..)                 1,0           0           2         1,0           2
+
+Performance Statistics   2019-06-08 22:50:00 - 2019-06-08 22:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:51:00 - 2019-06-08 22:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:52:00 - 2019-06-08 22:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:53:00 - 2019-06-08 22:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:54:00 - 2019-06-08 22:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:55:00 - 2019-06-08 22:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:56:00 - 2019-06-08 22:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:57:00 - 2019-06-08 22:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:58:00 - 2019-06-08 22:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:59:00 - 2019-06-08 23:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:00:00 - 2019-06-08 23:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                             1201,0        1201        1201         0,0           1
+Messages.searchClasspath                                 0,0           0           0         0,0          20
+Messages.searchFiles                                     0,0           0           0         0,0          20
+PersistenceSecurity.applyConstraints(..)                 1,5           0           3         1,5           2
+
+Performance Statistics   2019-06-08 23:01:00 - 2019-06-08 23:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:02:00 - 2019-06-08 23:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              372,0         372         372         0,0           1
+Messages.searchClasspath                                 0,0           0           0         0,0           4
+Messages.searchFiles                                     0,0           0           0         0,0           4
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:03:00 - 2019-06-08 23:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:04:00 - 2019-06-08 23:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:05:00 - 2019-06-08 23:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:06:00 - 2019-06-08 23:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:07:00 - 2019-06-08 23:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              302,0         302         302         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:08:00 - 2019-06-08 23:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:10:00 - 2019-06-08 23:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,3           0           4         1,2          15
+Messages.searchClasspath                                 0,1           0          12         0,8         535
+Messages.searchFiles                                     0,0           0          19         0,8         535
+Metadata.replaceExtendedMetaClasses                      1,5           1           2         0,5           2
+PersistenceSecurity.applyConstraints(..)                 1,0           0           3         1,4           3
+ViewRepository.init.ViewRepositoryClientImpl            19,0          19          19         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  22,0          22          22         0,0           1
+WebJARs                                                 11,0          11          11         0,0           1
+
+Performance Statistics   2019-06-08 23:11:00 - 2019-06-08 23:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:12:00 - 2019-06-08 23:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              967,0         967         967         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:13:00 - 2019-06-08 23:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              631,0         631         631         0,0           1
+Messages.searchClasspath                                 0,0           0           0         0,0           5
+Messages.searchFiles                                     0,0           0           0         0,0           5
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:14:00 - 2019-06-08 23:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              344,0         344         344         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:15:00 - 2019-06-08 23:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:16:00 - 2019-06-08 23:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           1
+Messages.searchClasspath                                 0,2           0           2         0,5          26
+Messages.searchFiles                                     0,0           0           0         0,0          26
+PersistenceSecurity.applyConstraints(..)                 0,5           0           1         0,5           2
+
+Performance Statistics   2019-06-08 23:17:00 - 2019-06-08 23:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           1
+Messages.searchClasspath                                 0,2           0           9         0,8         191
+Messages.searchFiles                                     0,0           0           1         0,1         195
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:18:00 - 2019-06-08 23:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:19:00 - 2019-06-08 23:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,4           0           2         0,7           8
+Messages.searchClasspath                                 0,0           0           1         0,2         120
+Messages.searchFiles                                     0,0           0           0         0,0         120
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           9
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:20:00 - 2019-06-08 23:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:21:00 - 2019-06-08 23:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              289,0         289         289         0,0           1
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           2
+
+Performance Statistics   2019-06-08 23:22:00 - 2019-06-08 23:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:23:00 - 2019-06-08 23:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:24:00 - 2019-06-08 23:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:25:00 - 2019-06-08 23:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:26:00 - 2019-06-08 23:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           5
+PersistenceSecurity.applyConstraints(..)                 0,3           0           1         0,4           4
+
+Performance Statistics   2019-06-08 23:27:00 - 2019-06-08 23:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           8
+Messages.searchClasspath                                 0,0           0           0         0,0           5
+Messages.searchFiles                                     0,0           0           0         0,0           5
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0          17
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:28:00 - 2019-06-08 23:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:29:00 - 2019-06-08 23:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:30:00 - 2019-06-08 23:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                               99,3           0         297       139,8           3
+Messages.searchClasspath                                 0,0           0           0         0,0          14
+Messages.searchFiles                                     0,0           0           0         0,0          14
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           8
+
+Performance Statistics   2019-06-08 23:31:00 - 2019-06-08 23:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           8
+Messages.searchClasspath                                 0,0           0           2         0,2         201
+Messages.searchFiles                                     0,0           0           0         0,0         201
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0          12
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:32:00 - 2019-06-08 23:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           4
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           7
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:33:00 - 2019-06-08 23:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:34:00 - 2019-06-08 23:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:35:00 - 2019-06-08 23:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:36:00 - 2019-06-08 23:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:37:00 - 2019-06-08 23:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:38:00 - 2019-06-08 23:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:39:00 - 2019-06-08 23:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:40:00 - 2019-06-08 23:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:41:00 - 2019-06-08 23:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:42:00 - 2019-06-08 23:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:43:00 - 2019-06-08 23:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:44:00 - 2019-06-08 23:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:45:00 - 2019-06-08 23:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:46:00 - 2019-06-08 23:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:47:00 - 2019-06-08 23:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:48:00 - 2019-06-08 23:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:49:00 - 2019-06-08 23:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:50:00 - 2019-06-08 23:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                               95,3           0         286       134,8           3
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           4
+
+Performance Statistics   2019-06-08 23:51:00 - 2019-06-08 23:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           6
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           7
+PersistenceSecurity.assertToken(..)                      0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:52:00 - 2019-06-08 23:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,3           0           2         0,6          10
+Messages.searchClasspath                                 0,0           0           1         0,2         185
+Messages.searchFiles                                     0,0           0           0         0,0         185
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:53:00 - 2019-06-08 23:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           5
+Messages.searchClasspath                                 0,0           0           1         0,1          57
+Messages.searchFiles                                     0,0           0           0         0,0          57
+PersistenceSecurity.applyConstraints(..)                 0,0           0           0         0,0           3
+
+Performance Statistics   2019-06-08 23:54:00 - 2019-06-08 23:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:55:00 - 2019-06-08 23:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:56:00 - 2019-06-08 23:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:57:00 - 2019-06-08 23:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:58:00 - 2019-06-08 23:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

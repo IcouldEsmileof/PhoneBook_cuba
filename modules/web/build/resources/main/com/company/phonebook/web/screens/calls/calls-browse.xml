@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        caption="msg://browseCaption"
+        focusComponent="callsesTable"
+        messagesPack="com.company.phonebook.web.screens.calls">
+    <data readOnly="true">
+        <collection id="callsesDc"
+                    class="com.company.phonebook.entity.Calls"
+                    view="calls-view">
+            <loader id="callsesDl">
+                <query>
+                    <![CDATA[select e from phonebook_Calls e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="callsesTable"
+            spacing="true">
+        <filter id="filter"
+                applyTo="callsesTable"
+                dataLoader="callsesDl">
+            <properties include=".*"/>
+        </filter>
+        <groupTable id="callsesTable"
+                    width="100%"
+                    dataContainer="callsesDc">
+            <columns>
+                <column id="Owner" caption="msg://owner"/>
+                <column id="Phone number" caption="msg://phone"/>
+            </columns>
+            <rowsCount/>
+            <buttonsPanel>
+                <button id="topBtn" caption="msg://top"/>
+            </buttonsPanel>
+        </groupTable>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>

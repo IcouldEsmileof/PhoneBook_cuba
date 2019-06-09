@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<views xmlns="http://schemas.haulmont.com/cuba/view.xsd">
+
+    <view entity="phonebook_PhoneNumber" name="phoneNumber-view" extends="_local">
+        <property name="owner" view="_minimal"/>
+    </view>
+    <view entity="phonebook_Person" name="person-view" extends="_local">
+        <property name="phoneNumbers" view="_minimal">
+            <property name="number"/>
+        </property>
+    </view>
+    <view entity="phonebook_Calls" name="calls-view" extends="_local">
+        <property name="phoneNumber" view="_minimal">
+            <property name="number"/>
+        </property>
+    </view>
+</views>

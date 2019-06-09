@@ -1,0 +1,1481 @@
+Performance Statistics   2019-06-08 18:30:00 - 2019-06-08 18:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     173,0         173         173         0,0           1
+loginWindow#init                                        35,0          35          35         0,0           1
+loginWindow#inject                                      84,0          84          84         0,0           1
+loginWindow#load                                       667,0         667         667         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         14,0          12          16         2,0           2
+mainWindow#create                                       10,0          10          10         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+
+Performance Statistics   2019-06-08 18:32:00 - 2019-06-08 18:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           2
+loginWindow#beforeShow                                   0,0           0           0         0,0           2
+loginWindow#create                                       0,0           0           0         0,0           2
+loginWindow#init                                         0,0           0           0         0,0           2
+loginWindow#inject                                       0,5           0           1         0,5           2
+loginWindow#load                                         3,0           2           4         1,0           2
+loginWindow#uiPermissions                                0,0           0           0         0,0           2
+loginWindow#xml                                          1,5           0           5         2,1           4
+mainWindow#create                                        6,0           6           6         0,0           1
+mainWindow#xml                                           0,5           0           1         0,5           2
+
+Performance Statistics   2019-06-08 18:34:00 - 2019-06-08 18:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:36:00 - 2019-06-08 18:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+mainWindow#create                                        7,0           7           7         0,0           1
+mainWindow#xml                                           4,5           0           9         4,5           2
+
+Performance Statistics   2019-06-08 18:38:00 - 2019-06-08 18:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       294,5          51         538       243,5           2
+MenuItem.phonebook_PhoneNumber.browse                   55,0          55          55         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           2
+loginWindow#beforeShow                                   0,0           0           0         0,0           2
+loginWindow#create                                      92,5           0         185        92,5           2
+loginWindow#init                                        12,0           0          24        12,0           2
+loginWindow#inject                                      41,0           0          82        41,0           2
+loginWindow#load                                       298,0           3         593       295,0           2
+loginWindow#uiPermissions                                0,0           0           0         0,0           2
+loginWindow#xml                                          2,8           0          10         4,2           4
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                        7,3           5          12         3,3           3
+mainWindow#init                                         14,0          14          14         0,0           1
+mainWindow#inject                                       12,0          12          12         0,0           1
+mainWindow#load                                         99,0          99          99         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,3           0           8         2,9           6
+phonebook_Person.browse#afterShow                        2,0           0           4         2,0           2
+phonebook_Person.browse#beforeShow                      15,0           8          22         7,0           2
+phonebook_Person.browse#create                           7,5           0          15         7,5           2
+phonebook_Person.browse#init                             0,5           0           1         0,5           2
+phonebook_Person.browse#inject                           1,0           0           2         1,0           2
+phonebook_Person.browse#load                           194,5           5         384       189,5           2
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           2
+phonebook_Person.browse#xml                              2,5           1           4         1,5           2
+phonebook_PhoneNumber.browse#afterShow                   0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#beforeShow                 11,0          11          11         0,0           1
+phonebook_PhoneNumber.browse#create                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#init                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#inject                      1,0           1           1         0,0           1
+phonebook_PhoneNumber.browse#load                       11,0          11          11         0,0           1
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#xml                         3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 18:40:00 - 2019-06-08 18:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:42:00 - 2019-06-08 18:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:44:00 - 2019-06-08 18:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:46:00 - 2019-06-08 18:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:48:00 - 2019-06-08 18:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:50:00 - 2019-06-08 18:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:52:00 - 2019-06-08 18:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:54:00 - 2019-06-08 18:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:56:00 - 2019-06-08 18:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 18:58:00 - 2019-06-08 19:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:00:00 - 2019-06-08 19:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:02:00 - 2019-06-08 19:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:04:00 - 2019-06-08 19:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:06:00 - 2019-06-08 19:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:08:00 - 2019-06-08 19:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:10:00 - 2019-06-08 19:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:12:00 - 2019-06-08 19:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:14:00 - 2019-06-08 19:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:16:00 - 2019-06-08 19:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:18:00 - 2019-06-08 19:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:20:00 - 2019-06-08 19:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:22:00 - 2019-06-08 19:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:24:00 - 2019-06-08 19:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:26:00 - 2019-06-08 19:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:28:00 - 2019-06-08 19:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:30:00 - 2019-06-08 19:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:38:00 - 2019-06-08 19:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       313,0          48         830       365,6           3
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     215,0         215         215         0,0           1
+loginWindow#init                                        22,0          22          22         0,0           1
+loginWindow#inject                                      60,0          60          60         0,0           1
+loginWindow#load                                       761,0         761         761         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          6,0           0          12         6,0           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       32,0          32          32         0,0           1
+mainWindow#init                                         21,0          21          21         0,0           1
+mainWindow#inject                                       29,0          29          29         0,0           1
+mainWindow#load                                        349,0         349         349         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+phonebook_Person.browse#afterShow                        1,0           0           3         1,4           3
+phonebook_Person.browse#beforeShow                      24,0          18          32         5,9           3
+phonebook_Person.browse#create                           5,3           0          16         7,5           3
+phonebook_Person.browse#init                             0,3           0           1         0,5           3
+phonebook_Person.browse#inject                           3,7           0          10         4,5           3
+phonebook_Person.browse#load                           217,3           7         637       296,7           3
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           3
+phonebook_Person.browse#xml                              4,0           3           6         1,4           3
+
+Performance Statistics   2019-06-08 19:40:00 - 2019-06-08 19:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                        43,0          43          43         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           5
+phonebook_Calls.browse#init                              0,0           0           0         0,0           5
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           5
+phonebook_Calls.browse#load                              5,8           3          11         2,7           5
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           5
+phonebook_Calls.browse#xml                               2,6           0           7         2,4           5
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      14,0          14          14         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           0,0           0           0         0,0           1
+phonebook_Person.browse#load                             7,0           7           7         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                        10,0          10          10         0,0           1
+phonebook_Person.edit#create                             1,0           1           1         0,0           1
+phonebook_Person.edit#init                               1,0           1           1         0,0           1
+phonebook_Person.edit#inject                             2,0           2           2         0,0           1
+phonebook_Person.edit#load                             251,0         251         251         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                3,0           3           3         0,0           1
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    6,0           6           6         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#load                        122,0         122         122         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           2,0           2           2         0,0           1
+
+Performance Statistics   2019-06-08 19:42:00 - 2019-06-08 19:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         31,0          31          31         0,0           1
+MenuItem.phonebook_Person.browse                        75,0          75          75         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                        8,0           8           8         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           1
+phonebook_Calls.browse#load                              3,0           3           3         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               3,0           3           3         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      48,0          48          48         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           0,0           0           0         0,0           1
+phonebook_Person.browse#load                             9,0           9           9         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 19:44:00 - 2019-06-08 19:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:46:00 - 2019-06-08 19:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:48:00 - 2019-06-08 19:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:50:00 - 2019-06-08 19:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:52:00 - 2019-06-08 19:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:54:00 - 2019-06-08 19:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:56:00 - 2019-06-08 19:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 19:58:00 - 2019-06-08 20:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:00:00 - 2019-06-08 20:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:02:00 - 2019-06-08 20:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:04:00 - 2019-06-08 20:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:06:00 - 2019-06-08 20:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:08:00 - 2019-06-08 20:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:10:00 - 2019-06-08 20:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:12:00 - 2019-06-08 20:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:14:00 - 2019-06-08 20:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:16:00 - 2019-06-08 20:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:18:00 - 2019-06-08 20:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:20:00 - 2019-06-08 20:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:22:00 - 2019-06-08 20:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:24:00 - 2019-06-08 20:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:26:00 - 2019-06-08 20:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:28:00 - 2019-06-08 20:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:30:00 - 2019-06-08 20:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:32:00 - 2019-06-08 20:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:34:00 - 2019-06-08 20:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:36:00 - 2019-06-08 20:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:38:00 - 2019-06-08 20:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:40:00 - 2019-06-08 20:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:42:00 - 2019-06-08 20:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:44:00 - 2019-06-08 20:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:46:00 - 2019-06-08 20:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:48:00 - 2019-06-08 20:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:50:00 - 2019-06-08 20:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:52:00 - 2019-06-08 20:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1490,0        1490        1490         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     430,0         430         430         0,0           1
+loginWindow#init                                        65,0          65          65         0,0           1
+loginWindow#inject                                      85,0          85          85         0,0           1
+loginWindow#load                                      1302,0        1302        1302         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         12,0           1          23        11,0           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       19,0          19          19         0,0           1
+mainWindow#init                                         31,0          31          31         0,0           1
+mainWindow#inject                                       23,0          23          23         0,0           1
+mainWindow#load                                        472,0         472         472         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,5           0           7         3,5           2
+phonebook_Person.browse#afterShow                        5,0           5           5         0,0           1
+phonebook_Person.browse#beforeShow                     112,0         112         112         0,0           1
+phonebook_Person.browse#create                          19,0          19          19         0,0           1
+phonebook_Person.browse#init                             3,0           3           3         0,0           1
+phonebook_Person.browse#inject                          19,0          19          19         0,0           1
+phonebook_Person.browse#load                          1153,0        1153        1153         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-08 20:54:00 - 2019-06-08 20:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 20:56:00 - 2019-06-08 20:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1246,0        1246        1246         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      33,0          33          33         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           5,0           5           5         0,0           1
+phonebook_Person.browse#load                             9,0           9           9         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 20:58:00 - 2019-06-08 21:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       123,0         123         123         0,0           1
+MenuItem.phonebook_PhoneNumber.browse                 1031,0        1031        1031         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     261,0         261         261         0,0           1
+loginWindow#init                                        29,0          29          29         0,0           1
+loginWindow#inject                                     100,0         100         100         0,0           1
+loginWindow#load                                       836,0         836         836         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          6,5           0          13         6,5           2
+mainWindow#afterShow                                     7,0           7           7         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       18,0          18          18         0,0           1
+mainWindow#init                                         23,0          23          23         0,0           1
+mainWindow#inject                                       18,0          18          18         0,0           1
+mainWindow#load                                        461,0         461         461         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      51,0          51          51         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           8,0           8           8         0,0           1
+phonebook_Person.browse#load                            15,0          15          15         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+phonebook_PhoneNumber.browse#afterShow                   3,0           3           3         0,0           1
+phonebook_PhoneNumber.browse#beforeShow                 62,0          62          62         0,0           1
+phonebook_PhoneNumber.browse#create                     15,0          15          15         0,0           1
+phonebook_PhoneNumber.browse#init                        2,0           2           2         0,0           1
+phonebook_PhoneNumber.browse#inject                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#load                      799,0         799         799         0,0           1
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#xml                         4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-08 21:00:00 - 2019-06-08 21:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1245,0        1245        1245         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     287,0         287         287         0,0           1
+loginWindow#init                                        33,0          33          33         0,0           1
+loginWindow#inject                                      78,0          78          78         0,0           1
+loginWindow#load                                       890,0         890         890         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         12,5           0          25        12,5           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       16,0          16          16         0,0           1
+mainWindow#init                                         21,0          21          21         0,0           1
+mainWindow#inject                                       15,0          15          15         0,0           1
+mainWindow#load                                        489,0         489         489         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,5           0           7         3,5           2
+phonebook_Person.browse#afterShow                        3,0           3           3         0,0           1
+phonebook_Person.browse#beforeShow                     125,0         125         125         0,0           1
+phonebook_Person.browse#create                          16,0          16          16         0,0           1
+phonebook_Person.browse#init                             2,0           2           2         0,0           1
+phonebook_Person.browse#inject                          11,0          11          11         0,0           1
+phonebook_Person.browse#load                           955,0         955         955         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              5,0           5           5         0,0           1
+
+Performance Statistics   2019-06-08 21:02:00 - 2019-06-08 21:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:04:00 - 2019-06-08 21:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1341,0        1341        1341         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      48,0          48          48         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           4,0           4           4         0,0           1
+phonebook_Person.browse#load                            13,0          13          13         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 21:06:00 - 2019-06-08 21:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1857,0        1857        1857         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     532,0         532         532         0,0           1
+loginWindow#init                                        30,0          30          30         0,0           1
+loginWindow#inject                                      91,0          91          91         0,0           1
+loginWindow#load                                      1044,0        1044        1044         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         16,5          14          19         2,5           2
+mainWindow#afterShow                                    17,0          17          17         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       12,0          12          12         0,0           1
+mainWindow#init                                         39,0          39          39         0,0           1
+mainWindow#inject                                       24,0          24          24         0,0           1
+mainWindow#load                                        453,0         453         453         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           6,5           0          13         6,5           2
+phonebook_Person.browse#afterShow                        5,0           5           5         0,0           1
+phonebook_Person.browse#beforeShow                     164,0         164         164         0,0           1
+phonebook_Person.browse#create                          28,0          28          28         0,0           1
+phonebook_Person.browse#init                            11,0          11          11         0,0           1
+phonebook_Person.browse#inject                          19,0          19          19         0,0           1
+phonebook_Person.browse#load                          1379,0        1379        1379         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                             11,0          11          11         0,0           1
+
+Performance Statistics   2019-06-08 21:10:00 - 2019-06-08 21:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1109,0        1109        1109         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     271,0         271         271         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                     113,0         113         113         0,0           1
+loginWindow#load                                       864,0         864         864         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                         15,5           1          30        14,5           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       18,0          18          18         0,0           1
+mainWindow#init                                         26,0          26          26         0,0           1
+mainWindow#inject                                       18,0          18          18         0,0           1
+mainWindow#load                                        460,0         460         460         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           3,0           0           6         3,0           2
+phonebook_Person.browse#afterShow                        6,0           6           6         0,0           1
+phonebook_Person.browse#beforeShow                     120,0         120         120         0,0           1
+phonebook_Person.browse#create                          17,0          17          17         0,0           1
+phonebook_Person.browse#init                             2,0           2           2         0,0           1
+phonebook_Person.browse#inject                          16,0          16          16         0,0           1
+phonebook_Person.browse#load                           787,0         787         787         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-08 21:12:00 - 2019-06-08 21:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                      1057,5         446        1669       611,5           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           2
+phonebook_Person.browse#beforeShow                      33,0          23          43        10,0           2
+phonebook_Person.browse#create                           5,5           0          11         5,5           2
+phonebook_Person.browse#init                             0,0           0           0         0,0           2
+phonebook_Person.browse#inject                           4,5           2           7         2,5           2
+phonebook_Person.browse#load                            20,0           7          33        13,0           2
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           2
+phonebook_Person.browse#xml                              1,5           1           2         0,5           2
+
+Performance Statistics   2019-06-08 21:14:00 - 2019-06-08 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:16:00 - 2019-06-08 21:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:18:00 - 2019-06-08 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:20:00 - 2019-06-08 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         55,0          55          55         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                        9,0           9           9         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           1
+phonebook_Calls.browse#load                             10,0          10          10         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-08 21:22:00 - 2019-06-08 21:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:24:00 - 2019-06-08 21:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:26:00 - 2019-06-08 21:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         33,0          33          33         0,0           1
+MenuItem.phonebook_Person.browse                       343,0         343         343         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       12,0          12          12         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           1
+phonebook_Calls.browse#load                              4,0           4           4         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               1,0           1           1         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      20,0          20          20         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           4,0           4           4         0,0           1
+phonebook_Person.browse#load                             9,0           9           9         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 21:28:00 - 2019-06-08 21:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_PhoneNumber.browse                   43,0          43          43         0,0           1
+phonebook_PhoneNumber.browse#afterShow                   0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#beforeShow                  8,0           8           8         0,0           1
+phonebook_PhoneNumber.browse#create                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#init                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#inject                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#load                        8,0           8           8         0,0           1
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#xml                         2,0           2           2         0,0           1
+
+Performance Statistics   2019-06-08 21:30:00 - 2019-06-08 21:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                        54,0          54          54         0,0           1
+MenuItem.phonebook_PhoneNumber.browse                   39,0          39          39         0,0           1
+mainWindow#afterShow                                     9,0           9           9         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                        6,0           6           6         0,0           1
+mainWindow#init                                          0,0           0           0         0,0           1
+mainWindow#inject                                        3,0           3           3         0,0           1
+mainWindow#load                                         19,0          19          19         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           0,5           0           1         0,5           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      21,0          21          21         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           0,0           0           0         0,0           1
+phonebook_Person.browse#load                             7,0           7           7         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              2,0           2           2         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                         7,0           7           7         0,0           1
+phonebook_Person.edit#create                             0,0           0           0         0,0           1
+phonebook_Person.edit#init                               1,0           1           1         0,0           1
+phonebook_Person.edit#inject                             2,0           2           2         0,0           1
+phonebook_Person.edit#load                             282,0         282         282         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                3,0           3           3         0,0           1
+phonebook_PhoneNumber.browse#afterShow                   0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#beforeShow                  8,0           8           8         0,0           1
+phonebook_PhoneNumber.browse#create                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#init                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#inject                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#load                        6,0           6           6         0,0           1
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#xml                         1,0           1           1         0,0           1
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    9,0           9           9         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#load                        116,0         116         116         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 21:32:00 - 2019-06-08 21:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                        45,0          45          45         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      19,0          19          19         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           0,0           0           0         0,0           1
+phonebook_Person.browse#load                             8,0           8           8         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              1,0           1           1         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           2
+phonebook_Person.edit#beforeShow                         0,0           0           0         0,0           2
+phonebook_Person.edit#create                             0,0           0           0         0,0           2
+phonebook_Person.edit#init                               0,0           0           0         0,0           2
+phonebook_Person.edit#inject                             0,0           0           0         0,0           2
+phonebook_Person.edit#load                               3,0           2           4         1,0           2
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           2
+phonebook_Person.edit#xml                                1,5           1           2         0,5           2
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    6,0           6           6         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#load                          2,0           2           2         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 21:34:00 - 2019-06-08 21:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       837,0         837         837         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     173,0         173         173         0,0           1
+loginWindow#init                                        26,0          26          26         0,0           1
+loginWindow#inject                                      75,0          75          75         0,0           1
+loginWindow#load                                       599,0         599         599         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          5,0           0          10         5,0           2
+mainWindow#afterShow                                     4,0           4           4         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       13,0          13          13         0,0           1
+mainWindow#init                                         21,0          21          21         0,0           1
+mainWindow#inject                                       20,0          20          20         0,0           1
+mainWindow#load                                        330,0         330         330         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,0           0           2         1,0           2
+phonebook_Person.browse#afterShow                        3,0           3           3         0,0           1
+phonebook_Person.browse#beforeShow                      76,0          76          76         0,0           1
+phonebook_Person.browse#create                          15,0          15          15         0,0           1
+phonebook_Person.browse#init                             1,0           1           1         0,0           1
+phonebook_Person.browse#inject                          10,0          10          10         0,0           1
+phonebook_Person.browse#load                           627,0         627         627         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              5,0           5           5         0,0           1
+phonebook_Person.edit#afterShow                          1,0           1           1         0,0           1
+phonebook_Person.edit#beforeShow                         8,0           8           8         0,0           1
+phonebook_Person.edit#create                             2,0           2           2         0,0           1
+phonebook_Person.edit#init                               1,0           1           1         0,0           1
+phonebook_Person.edit#inject                             3,0           3           3         0,0           1
+phonebook_Person.edit#load                             278,0         278         278         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 21:36:00 - 2019-06-08 21:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:38:00 - 2019-06-08 21:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:40:00 - 2019-06-08 21:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:42:00 - 2019-06-08 21:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:44:00 - 2019-06-08 21:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:46:00 - 2019-06-08 21:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:48:00 - 2019-06-08 21:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:50:00 - 2019-06-08 21:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:54:00 - 2019-06-08 21:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 21:56:00 - 2019-06-08 21:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       964,0         964         964         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     232,0         232         232         0,0           1
+loginWindow#init                                        41,0          41          41         0,0           1
+loginWindow#inject                                      83,0          83          83         0,0           1
+loginWindow#load                                       788,0         788         788         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          5,5           0          11         5,5           2
+mainWindow#afterShow                                     4,0           4           4         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       18,0          18          18         0,0           1
+mainWindow#init                                         17,0          17          17         0,0           1
+mainWindow#inject                                       12,0          12          12         0,0           1
+mainWindow#load                                        342,0         342         342         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           5,5           1          10         4,5           2
+phonebook_Person.browse#afterShow                        4,0           4           4         0,0           1
+phonebook_Person.browse#beforeShow                      77,0          77          77         0,0           1
+phonebook_Person.browse#create                          32,0          32          32         0,0           1
+phonebook_Person.browse#init                             1,0           1           1         0,0           1
+phonebook_Person.browse#inject                          14,0          14          14         0,0           1
+phonebook_Person.browse#load                           711,0         711         711         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              8,0           8           8         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                        10,0          10          10         0,0           1
+phonebook_Person.edit#create                             1,0           1           1         0,0           1
+phonebook_Person.edit#init                               2,0           2           2         0,0           1
+phonebook_Person.edit#inject                             3,0           3           3         0,0           1
+phonebook_Person.edit#load                             275,0         275         275         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 21:58:00 - 2019-06-08 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                       0,0           0           0         0,0           1
+loginWindow#init                                         0,0           0           0         0,0           1
+loginWindow#inject                                       0,0           0           0         0,0           1
+loginWindow#load                                         2,0           2           2         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          1,0           0           2         1,0           2
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                   11,0          11          11         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        3,0           3           3         0,0           1
+phonebook_PhoneNumber.edit#load                         41,0          41          41         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-08 21:58:00 - 2019-06-08 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       932,0         932         932         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     240,0         240         240         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                      76,0          76          76         0,0           1
+loginWindow#load                                       686,0         686         686         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          5,5           0          11         5,5           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       11,0          11          11         0,0           1
+mainWindow#init                                         20,0          20          20         0,0           1
+mainWindow#inject                                       17,0          17          17         0,0           1
+mainWindow#load                                        333,0         333         333         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,5           0           3         1,5           2
+phonebook_Person.browse#afterShow                        3,0           3           3         0,0           1
+phonebook_Person.browse#beforeShow                      76,0          76          76         0,0           1
+phonebook_Person.browse#create                          14,0          14          14         0,0           1
+phonebook_Person.browse#init                             2,0           2           2         0,0           1
+phonebook_Person.browse#inject                           8,0           8           8         0,0           1
+phonebook_Person.browse#load                           707,0         707         707         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                         9,0           9           9         0,0           1
+phonebook_Person.edit#create                             1,0           1           1         0,0           1
+phonebook_Person.edit#init                               1,0           1           1         0,0           1
+phonebook_Person.edit#inject                             3,0           3           3         0,0           1
+phonebook_Person.edit#load                             304,0         304         304         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                2,0           2           2         0,0           1
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                   13,0          13          13         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        4,0           4           4         0,0           1
+phonebook_PhoneNumber.edit#load                         37,0          37          37         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 22:00:00 - 2019-06-08 22:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       917,0         917         917         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     188,0         188         188         0,0           1
+loginWindow#init                                        26,0          26          26         0,0           1
+loginWindow#inject                                      78,0          78          78         0,0           1
+loginWindow#load                                       694,0         694         694         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          5,0           0          10         5,0           2
+mainWindow#afterShow                                     6,0           6           6         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         17,0          17          17         0,0           1
+mainWindow#inject                                       16,0          16          16         0,0           1
+mainWindow#load                                        311,0         311         311         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,5           0           3         1,5           2
+phonebook_Person.browse#afterShow                        3,0           3           3         0,0           1
+phonebook_Person.browse#beforeShow                      92,0          92          92         0,0           1
+phonebook_Person.browse#create                          15,0          15          15         0,0           1
+phonebook_Person.browse#init                             2,0           2           2         0,0           1
+phonebook_Person.browse#inject                          12,0          12          12         0,0           1
+phonebook_Person.browse#load                           677,0         677         677         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           2
+phonebook_Person.edit#beforeShow                        22,0           9          35        13,0           2
+phonebook_Person.edit#create                             0,5           0           1         0,5           2
+phonebook_Person.edit#init                               0,5           0           1         0,5           2
+phonebook_Person.edit#inject                             1,0           0           2         1,0           2
+phonebook_Person.edit#load                             139,5           4         275       135,5           2
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           2
+phonebook_Person.edit#xml                                1,0           0           2         1,0           2
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           2
+phonebook_PhoneNumber.edit#beforeShow                   11,0          10          12         1,0           2
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           2
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           2
+phonebook_PhoneNumber.edit#inject                        1,5           0           3         1,5           2
+phonebook_PhoneNumber.edit#load                         20,0           2          38        18,0           2
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           2
+phonebook_PhoneNumber.edit#xml                           1,0           0           2         1,0           2
+
+Performance Statistics   2019-06-08 22:02:00 - 2019-06-08 22:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_PhoneNumber.browse                   44,0          44          44         0,0           1
+phonebook_PhoneNumber.browse#afterShow                   0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#beforeShow                  9,0           9           9         0,0           1
+phonebook_PhoneNumber.browse#create                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#init                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#inject                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#load                        6,0           6           6         0,0           1
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#xml                         1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 22:04:00 - 2019-06-08 22:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:06:00 - 2019-06-08 22:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:08:00 - 2019-06-08 22:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:10:00 - 2019-06-08 22:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:14:00 - 2019-06-08 22:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         60,0          60          60         0,0           1
+MenuItem.phonebook_Person.browse                       953,0         953         953         0,0           1
+MenuItem.phonebook_PhoneNumber.browse                   54,0          54          54         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     212,0         212         212         0,0           1
+loginWindow#init                                        22,0          22          22         0,0           1
+loginWindow#inject                                      86,0          86          86         0,0           1
+loginWindow#load                                       945,0         945         945         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          6,0           0          12         6,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       12,0          12          12         0,0           1
+mainWindow#init                                         18,0          18          18         0,0           1
+mainWindow#inject                                       14,0          14          14         0,0           1
+mainWindow#load                                        310,0         310         310         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,5           0           3         1,5           2
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       15,0          15          15         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            1,0           1           1         0,0           1
+phonebook_Calls.browse#load                              9,0           9           9         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               4,0           4           4         0,0           1
+phonebook_Person.browse#afterShow                        4,0           4           4         0,0           1
+phonebook_Person.browse#beforeShow                      79,0          79          79         0,0           1
+phonebook_Person.browse#create                          19,0          19          19         0,0           1
+phonebook_Person.browse#init                             4,0           4           4         0,0           1
+phonebook_Person.browse#inject                           9,0           9           9         0,0           1
+phonebook_Person.browse#load                           720,0         720         720         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+phonebook_PhoneNumber.browse#afterShow                   0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#beforeShow                 10,0          10          10         0,0           1
+phonebook_PhoneNumber.browse#create                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#init                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#inject                      0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#load                       10,0          10          10         0,0           1
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           1
+phonebook_PhoneNumber.browse#xml                         3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 22:28:00 - 2019-06-08 22:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         86,0          86          86         0,0           1
+MenuItem.phonebook_Person.browse                       910,0         910         910         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     207,0         207         207         0,0           1
+loginWindow#init                                        22,0          22          22         0,0           1
+loginWindow#inject                                      61,0          61          61         0,0           1
+loginWindow#load                                       672,0         672         672         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          6,0           0          12         6,0           2
+mainWindow#afterShow                                     4,0           4           4         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       12,0          12          12         0,0           1
+mainWindow#init                                         20,0          20          20         0,0           1
+mainWindow#inject                                       19,0          19          19         0,0           1
+mainWindow#load                                        312,0         312         312         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,5           0           5         2,5           2
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       42,0          42          42         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           1
+phonebook_Calls.browse#load                              8,0           8           8         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               3,0           3           3         0,0           1
+phonebook_Person.browse#afterShow                        4,0           4           4         0,0           1
+phonebook_Person.browse#beforeShow                      34,0          34          34         0,0           1
+phonebook_Person.browse#create                          15,0          15          15         0,0           1
+phonebook_Person.browse#init                             1,0           1           1         0,0           1
+phonebook_Person.browse#inject                          14,0          14          14         0,0           1
+phonebook_Person.browse#load                           722,0         722         722         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              4,0           4           4         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                         7,0           7           7         0,0           1
+phonebook_Person.edit#create                             1,0           1           1         0,0           1
+phonebook_Person.edit#init                               1,0           1           1         0,0           1
+phonebook_Person.edit#inject                             3,0           3           3         0,0           1
+phonebook_Person.edit#load                             257,0         257         257         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                2,0           2           2         0,0           1
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    8,0           8           8         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        5,0           5           5         0,0           1
+phonebook_PhoneNumber.edit#load                         41,0          41          41         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 22:30:00 - 2019-06-08 22:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:36:00 - 2019-06-08 22:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       859,0         859         859         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     189,0         189         189         0,0           1
+loginWindow#init                                        31,0          31          31         0,0           1
+loginWindow#inject                                      72,0          72          72         0,0           1
+loginWindow#load                                       703,0         703         703         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          5,0           0          10         5,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       13,0          13          13         0,0           1
+mainWindow#init                                         17,0          17          17         0,0           1
+mainWindow#inject                                       15,0          15          15         0,0           1
+mainWindow#load                                        331,0         331         331         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           1,5           0           3         1,5           2
+phonebook_Calls.browse#create                           11,0          11          11         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           1
+phonebook_Calls.browse#load                             10,0          10          10         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               2,0           2           2         0,0           1
+phonebook_Person.browse#afterShow                        3,0           3           3         0,0           1
+phonebook_Person.browse#beforeShow                      73,0          73          73         0,0           1
+phonebook_Person.browse#create                          16,0          16          16         0,0           1
+phonebook_Person.browse#init                             2,0           2           2         0,0           1
+phonebook_Person.browse#inject                          11,0          11          11         0,0           1
+phonebook_Person.browse#load                           639,0         639         639         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              5,0           5           5         0,0           1
+
+Performance Statistics   2019-06-08 22:38:00 - 2019-06-08 22:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:40:00 - 2019-06-08 22:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:44:00 - 2019-06-08 22:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         84,0          84          84         0,0           1
+MenuItem.phonebook_Person.browse                       896,0         896         896         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     186,0         186         186         0,0           1
+loginWindow#init                                        24,0          24          24         0,0           1
+loginWindow#inject                                      71,0          71          71         0,0           1
+loginWindow#load                                       656,0         656         656         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          5,0           0          10         5,0           2
+mainWindow#afterShow                                    11,5           6          17         5,5           2
+mainWindow#beforeShow                                    0,0           0           0         0,0           2
+mainWindow#create                                        8,5           4          13         4,5           2
+mainWindow#init                                         12,0           0          24        12,0           2
+mainWindow#inject                                       11,5           4          19         7,5           2
+mainWindow#load                                        165,5           7         324       158,5           2
+mainWindow#uiPermissions                                 0,0           0           0         0,0           2
+mainWindow#xml                                           1,8           0           4         1,8           4
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       26,0          26          26         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           1
+phonebook_Calls.browse#load                             19,0          19          19         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               4,0           4           4         0,0           1
+phonebook_Person.browse#afterShow                        4,0           4           4         0,0           1
+phonebook_Person.browse#beforeShow                      74,0          74          74         0,0           1
+phonebook_Person.browse#create                          14,0          14          14         0,0           1
+phonebook_Person.browse#init                             2,0           2           2         0,0           1
+phonebook_Person.browse#inject                           8,0           8           8         0,0           1
+phonebook_Person.browse#load                           682,0         682         682         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 22:46:00 - 2019-06-08 22:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         42,5          41          44         1,5           2
+MenuItem.phonebook_Person.browse                        52,0          52          52         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           2
+phonebook_Calls.browse#beforeShow                       10,0          10          10         0,0           2
+phonebook_Calls.browse#create                            0,0           0           0         0,0           2
+phonebook_Calls.browse#init                              0,0           0           0         0,0           2
+phonebook_Calls.browse#inject                            0,5           0           1         0,5           2
+phonebook_Calls.browse#load                              5,5           5           6         0,5           2
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           2
+phonebook_Calls.browse#xml                               2,0           0           4         2,0           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      23,0          23          23         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           0,0           0           0         0,0           1
+phonebook_Person.browse#load                             5,0           5           5         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              2,0           2           2         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                        53,0          53          53         0,0           1
+phonebook_Person.edit#create                             2,0           2           2         0,0           1
+phonebook_Person.edit#init                               1,0           1           1         0,0           1
+phonebook_Person.edit#inject                             2,0           2           2         0,0           1
+phonebook_Person.edit#load                             289,0         289         289         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                2,0           2           2         0,0           1
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           4
+phonebook_PhoneNumber.edit#beforeShow                    8,3           6          14         3,3           4
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           4
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           4
+phonebook_PhoneNumber.edit#inject                        1,0           0           4         1,7           4
+phonebook_PhoneNumber.edit#load                         15,3           1          56        23,5           4
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           4
+phonebook_PhoneNumber.edit#xml                           1,0           0           2         0,7           4
+
+Performance Statistics   2019-06-08 22:48:00 - 2019-06-08 22:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         43,0          43          43         0,0           1
+MenuItem.phonebook_Person.browse                        49,0          49          49         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       12,0          12          12         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            1,0           1           1         0,0           1
+phonebook_Calls.browse#load                              5,0           5           5         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      22,0          22          22         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           0,0           0           0         0,0           1
+phonebook_Person.browse#load                             4,0           4           4         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              1,0           1           1         0,0           1
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    6,0           6           6         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#load                          2,0           2           2         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 22:50:00 - 2019-06-08 22:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:52:00 - 2019-06-08 22:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:54:00 - 2019-06-08 22:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:56:00 - 2019-06-08 22:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 22:58:00 - 2019-06-08 23:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:00:00 - 2019-06-08 23:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                       1328,0        1328        1328         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       38,0          38          38         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            6,0           6           6         0,0           1
+phonebook_Calls.browse#load                              6,0           6           6         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:02:00 - 2019-06-08 23:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        434,0         434         434         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       14,0          14          14         0,0           1
+phonebook_Calls.browse#create                           13,0          13          13         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            6,0           6           6         0,0           1
+phonebook_Calls.browse#load                              4,0           4           4         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:04:00 - 2019-06-08 23:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:06:00 - 2019-06-08 23:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        349,0         349         349         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       12,0          12          12         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           1
+phonebook_Calls.browse#load                              6,0           6           6         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:10:00 - 2019-06-08 23:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        820,0         820         820         0,0           1
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                     218,0         218         218         0,0           1
+loginWindow#init                                        32,0          32          32         0,0           1
+loginWindow#inject                                      72,0          72          72         0,0           1
+loginWindow#load                                       972,0         972         972         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          8,0           1          15         7,0           2
+mainWindow#afterShow                                     5,0           5           5         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                       14,0          14          14         0,0           1
+mainWindow#init                                         24,0          24          24         0,0           1
+mainWindow#inject                                       15,0          15          15         0,0           1
+mainWindow#load                                        351,0         351         351         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           1           3         1,0           2
+phonebook_Calls.browse#afterShow                         3,0           3           3         0,0           1
+phonebook_Calls.browse#beforeShow                       71,0          71          71         0,0           1
+phonebook_Calls.browse#create                           17,0          17          17         0,0           1
+phonebook_Calls.browse#init                             21,0          21          21         0,0           1
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           1
+phonebook_Calls.browse#load                            584,0         584         584         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               4,0           4           4         0,0           1
+
+Performance Statistics   2019-06-08 23:12:00 - 2019-06-08 23:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        877,5         718        1037       159,5           2
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           2
+phonebook_Calls.browse#beforeShow                       21,0          20          22         1,0           2
+phonebook_Calls.browse#create                            8,5           0          17         8,5           2
+phonebook_Calls.browse#init                              0,0           0           0         0,0           2
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           2
+phonebook_Calls.browse#load                              8,0           8           8         0,0           2
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           2
+phonebook_Calls.browse#xml                               1,0           1           1         0,0           2
+
+Performance Statistics   2019-06-08 23:14:00 - 2019-06-08 23:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        405,0         405         405         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       15,0          15          15         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            2,0           2           2         0,0           1
+phonebook_Calls.browse#load                              6,0           6           6         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 23:16:00 - 2019-06-08 23:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         66,0          60          72         6,0           2
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           2
+phonebook_Calls.browse#beforeShow                       14,0          13          15         1,0           2
+phonebook_Calls.browse#create                            0,0           0           0         0,0           2
+phonebook_Calls.browse#init                              0,0           0           0         0,0           2
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           2
+phonebook_Calls.browse#load                             20,5          16          25         4,5           2
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           2
+phonebook_Calls.browse#xml                               4,0           4           4         0,0           2
+
+Performance Statistics   2019-06-08 23:18:00 - 2019-06-08 23:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         43,0          43          43         0,0           1
+MenuItem.phonebook_Person.browse                       176,0         176         176         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       13,0          13          13         0,0           1
+phonebook_Calls.browse#create                            0,0           0           0         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           1
+phonebook_Calls.browse#load                              6,0           6           6         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           1
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           1
+phonebook_Person.browse#beforeShow                      31,0          31          31         0,0           1
+phonebook_Person.browse#create                           0,0           0           0         0,0           1
+phonebook_Person.browse#init                             0,0           0           0         0,0           1
+phonebook_Person.browse#inject                           8,0           8           8         0,0           1
+phonebook_Person.browse#load                           106,0         106         106         0,0           1
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           1
+phonebook_Person.browse#xml                              2,0           2           2         0,0           1
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           2
+phonebook_Person.edit#beforeShow                        33,0          17          49        16,0           2
+phonebook_Person.edit#create                             1,5           0           3         1,5           2
+phonebook_Person.edit#init                               0,5           0           1         0,5           2
+phonebook_Person.edit#inject                             1,0           0           2         1,0           2
+phonebook_Person.edit#load                             135,0           2         268       133,0           2
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           2
+phonebook_Person.edit#xml                                1,5           0           3         1,5           2
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                   20,0          20          20         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        3,0           3           3         0,0           1
+phonebook_PhoneNumber.edit#load                         39,0          39          39         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           3,0           3           3         0,0           1
+
+Performance Statistics   2019-06-08 23:20:00 - 2019-06-08 23:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                        345,0         345         345         0,0           1
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           1
+phonebook_Calls.browse#beforeShow                       10,0          10          10         0,0           1
+phonebook_Calls.browse#create                           14,0          14          14         0,0           1
+phonebook_Calls.browse#init                              0,0           0           0         0,0           1
+phonebook_Calls.browse#inject                            1,0           1           1         0,0           1
+phonebook_Calls.browse#load                              5,0           5           5         0,0           1
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           1
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:22:00 - 2019-06-08 23:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:24:00 - 2019-06-08 23:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:26:00 - 2019-06-08 23:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Calls.browse                         45,0          41          49         4,0           2
+MenuItem.phonebook_Person.browse                        51,4          47          57         3,9           5
+phonebook_Calls.browse#afterShow                         0,0           0           0         0,0           2
+phonebook_Calls.browse#beforeShow                       11,5          11          12         0,5           2
+phonebook_Calls.browse#create                            0,5           0           1         0,5           2
+phonebook_Calls.browse#init                              0,0           0           0         0,0           2
+phonebook_Calls.browse#inject                            0,0           0           0         0,0           2
+phonebook_Calls.browse#load                              7,0           6           8         1,0           2
+phonebook_Calls.browse#uiPermissions                     0,0           0           0         0,0           2
+phonebook_Calls.browse#xml                               0,0           0           0         0,0           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           5
+phonebook_Person.browse#beforeShow                      25,4          24          27         1,0           5
+phonebook_Person.browse#create                           0,0           0           0         0,0           5
+phonebook_Person.browse#init                             0,0           0           0         0,0           5
+phonebook_Person.browse#inject                           0,0           0           0         0,0           5
+phonebook_Person.browse#load                             5,8           5           7         0,7           5
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           5
+phonebook_Person.browse#xml                              0,4           0           2         0,8           5
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           2
+phonebook_Person.edit#beforeShow                         7,0           0          14         7,0           2
+phonebook_Person.edit#create                             0,0           0           0         0,0           2
+phonebook_Person.edit#init                               0,0           0           0         0,0           2
+phonebook_Person.edit#inject                             0,0           0           0         0,0           2
+phonebook_Person.edit#load                               2,0           2           2         0,0           2
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           2
+phonebook_Person.edit#xml                                1,0           1           1         0,0           2
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    5,0           5           5         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#load                          1,0           1           1         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 23:28:00 - 2019-06-08 23:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:30:00 - 2019-06-08 23:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       119,0          40         344       130,0           4
+MenuItem.phonebook_PhoneNumber.browse                   31,3          26          35         3,9           3
+loginWindow#afterShow                                    0,0           0           0         0,0           1
+loginWindow#beforeShow                                   0,0           0           0         0,0           1
+loginWindow#create                                       0,0           0           0         0,0           1
+loginWindow#init                                         0,0           0           0         0,0           1
+loginWindow#inject                                       0,0           0           0         0,0           1
+loginWindow#load                                         2,0           2           2         0,0           1
+loginWindow#uiPermissions                                0,0           0           0         0,0           1
+loginWindow#xml                                          0,5           0           1         0,5           2
+mainWindow#afterShow                                     4,0           4           4         0,0           1
+mainWindow#beforeShow                                    0,0           0           0         0,0           1
+mainWindow#create                                        3,0           3           3         0,0           1
+mainWindow#init                                          0,0           0           0         0,0           1
+mainWindow#inject                                        0,0           0           0         0,0           1
+mainWindow#load                                         20,0          20          20         0,0           1
+mainWindow#uiPermissions                                 0,0           0           0         0,0           1
+mainWindow#xml                                           2,0           0           4         2,0           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           4
+phonebook_Person.browse#beforeShow                      21,5          20          24         1,5           4
+phonebook_Person.browse#create                           0,0           0           0         0,0           4
+phonebook_Person.browse#init                             0,0           0           0         0,0           4
+phonebook_Person.browse#inject                           0,8           0           3         1,3           4
+phonebook_Person.browse#load                             4,8           3           6         1,3           4
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           4
+phonebook_Person.browse#xml                              0,3           0           1         0,4           4
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                        14,0          14          14         0,0           1
+phonebook_Person.edit#create                             0,0           0           0         0,0           1
+phonebook_Person.edit#init                               0,0           0           0         0,0           1
+phonebook_Person.edit#inject                             0,0           0           0         0,0           1
+phonebook_Person.edit#load                               2,0           2           2         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                1,0           1           1         0,0           1
+phonebook_PhoneNumber.browse#afterShow                   0,0           0           0         0,0           3
+phonebook_PhoneNumber.browse#beforeShow                  6,3           6           7         0,5           3
+phonebook_PhoneNumber.browse#create                      0,0           0           0         0,0           3
+phonebook_PhoneNumber.browse#init                        0,0           0           0         0,0           3
+phonebook_PhoneNumber.browse#inject                      0,0           0           0         0,0           3
+phonebook_PhoneNumber.browse#load                        3,7           2           5         1,2           3
+phonebook_PhoneNumber.browse#uiPermissions               0,0           0           0         0,0           3
+phonebook_PhoneNumber.browse#xml                         0,7           0           2         0,9           3
+
+Performance Statistics   2019-06-08 23:32:00 - 2019-06-08 23:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                        39,0          38          40         1,0           2
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           2
+phonebook_Person.browse#beforeShow                      18,5          18          19         0,5           2
+phonebook_Person.browse#create                           0,0           0           0         0,0           2
+phonebook_Person.browse#init                             0,0           0           0         0,0           2
+phonebook_Person.browse#inject                           0,0           0           0         0,0           2
+phonebook_Person.browse#load                             4,0           3           5         1,0           2
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           2
+phonebook_Person.browse#xml                              0,0           0           0         0,0           2
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           1
+phonebook_Person.edit#beforeShow                        22,0          22          22         0,0           1
+phonebook_Person.edit#create                             0,0           0           0         0,0           1
+phonebook_Person.edit#init                               0,0           0           0         0,0           1
+phonebook_Person.edit#inject                             0,0           0           0         0,0           1
+phonebook_Person.edit#load                               2,0           2           2         0,0           1
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           1
+phonebook_Person.edit#xml                                0,0           0           0         0,0           1
+
+Performance Statistics   2019-06-08 23:34:00 - 2019-06-08 23:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:36:00 - 2019-06-08 23:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:38:00 - 2019-06-08 23:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:40:00 - 2019-06-08 23:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:42:00 - 2019-06-08 23:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:44:00 - 2019-06-08 23:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:46:00 - 2019-06-08 23:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:48:00 - 2019-06-08 23:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:50:00 - 2019-06-08 23:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.phonebook_Person.browse                       142,3          42         340       139,8           3
+phonebook_Person.browse#afterShow                        0,0           0           0         0,0           3
+phonebook_Person.browse#beforeShow                      19,7          18          21         1,2           3
+phonebook_Person.browse#create                           3,7           0          11         5,2           3
+phonebook_Person.browse#init                             0,0           0           0         0,0           3
+phonebook_Person.browse#inject                           0,7           0           2         0,9           3
+phonebook_Person.browse#load                             4,3           4           5         0,5           3
+phonebook_Person.browse#uiPermissions                    0,0           0           0         0,0           3
+phonebook_Person.browse#xml                              0,7           0           2         0,9           3
+phonebook_Person.edit#afterShow                          0,0           0           0         0,0           2
+phonebook_Person.edit#beforeShow                         7,0           0          14         7,0           2
+phonebook_Person.edit#create                             0,0           0           0         0,0           2
+phonebook_Person.edit#init                               0,0           0           0         0,0           2
+phonebook_Person.edit#inject                             0,0           0           0         0,0           2
+phonebook_Person.edit#load                               2,0           2           2         0,0           2
+phonebook_Person.edit#uiPermissions                      0,0           0           0         0,0           2
+phonebook_Person.edit#xml                                0,5           0           1         0,5           2
+phonebook_PhoneNumber.edit#afterShow                     0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#beforeShow                    7,0           7           7         0,0           1
+phonebook_PhoneNumber.edit#create                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#init                          0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#inject                        0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#load                         22,0          22          22         0,0           1
+phonebook_PhoneNumber.edit#uiPermissions                 0,0           0           0         0,0           1
+phonebook_PhoneNumber.edit#xml                           1,0           1           1         0,0           1
+
+Performance Statistics   2019-06-08 23:52:00 - 2019-06-08 23:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+addCondition#afterShow                                   0,0           0           0         0,0           3
+addCondition#beforeShow                                  0,0           0           0         0,0           3
+addCondition#create                                      6,7           0          20         9,4           3
+addCondition#init                                        5,3           0          16         7,5           3
+addCondition#inject                                      1,0           0           3         1,4           3
+addCondition#load                                       67,7           2         198        92,2           3
+addCondition#uiPermissions                               0,0           0           0         0,0           3
+addCondition#xml                                         0,3           0           2         0,7          15
+addCondition@conditionDescriptorsDs                      1,2           0           3         1,5           5
+
+Performance Statistics   2019-06-08 23:54:00 - 2019-06-08 23:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2019-06-08 23:56:00 - 2019-06-08 23:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        caption="msg://editorCaption"
+        focusComponent="form"
+        messagesPack="com.company.phonebook.web.screens.person">
+    <data>
+        <instance id="personDc"
+                  class="com.company.phonebook.entity.Person"
+                  view="person-view">
+            <loader/>
+            <collection id="phoneNumbersDc" property="phoneNumbers"/>
+        </instance>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="editActions" spacing="true">
+        <form id="form" dataContainer="personDc">
+            <column width="250px">
+                <textArea id="nameField" property="name" rows="5"/>
+            </column>
+        </form>
+        <groupBox id="phoneNumbersBox" caption="msg://com.company.phonebook.entity/Person.phoneNumbers">
+            <table id="phoneNumbersTable" dataContainer="phoneNumbersDc" width="100%" height="200px">
+                <actions>
+                    <action id="create" type="create"/>
+                    <action id="edit" type="edit"/>
+                    <action id="remove" type="remove"/>
+                </actions>
+                <columns>
+                    <column id="type"/>
+                    <column id="number"/>
+                </columns>
+                <buttonsPanel>
+                    <button action="phoneNumbersTable.create"/>
+                    <button action="phoneNumbersTable.edit"/>
+                    <button action="phoneNumbersTable.remove"/>
+                </buttonsPanel>
+            </table>
+        </groupBox>
+        <hbox id="editActions" spacing="true">
+            <button action="windowCommitAndClose"/>
+            <button action="windowClose"/>
+        </hbox>
+    </layout>
+</window>

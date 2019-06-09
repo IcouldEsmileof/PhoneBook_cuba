@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        caption="msg://browseCaption"
+        focusComponent="personsTable"
+        messagesPack="com.company.phonebook.web.screens.person">
+    <data readOnly="true">
+        <collection id="personsDc"
+                    class="com.company.phonebook.entity.Person"
+                    view="person-view">
+            <loader id="personsDl">
+                <query>
+                    <![CDATA[select e from phonebook_Person e order by e.name]]>
+                </query>
+            </loader>
+        </collection>
+        <collection id="numberDc"
+                    class="com.company.phonebook.entity.PhoneNumber"
+                    view="phoneNumber-view">
+            <loader id="numberDl" >
+                <query>
+                    <![CDATA[select e from phonebook_PhoneNumber e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="hbox" spacing="true">
+        <filter id="filter"
+                applyTo="personsTable"
+                dataLoader="personsDl">
+            <properties include=".*"/>
+        </filter>
+        <hbox id="hbox" width="100%" spacing="true">
+            <groupTable id="personsTable"
+                        width="100%"
+                        dataContainer="personsDc">
+                <actions>
+                    <action id="create" type="create"/>
+                    <action id="edit" type="edit"/>
+                    <action id="remove" type="remove"/>
+                </actions>
+                <columns>
+                    <column id="name"/>
+                </columns>
+                <rowsCount/>
+                <buttonsPanel id="peopleButtons"
+                              alwaysVisible="true">
+                    <button id="createBtn" action="personsTable.create"/>
+                    <button id="editBtn" action="personsTable.edit"/>
+                    <button id="removeBtn" action="personsTable.remove"/>
+                    <upload id="uploadField"/>
+                </buttonsPanel>
+            </groupTable>
+            <groupTable id="numberTable" visible="false" dataContainer="numberDc" width="100%">
+                <columns>
+                    <column id="number"/>
+                    <column id="type"/>
+                </columns>
+                <rowsCount/>
+                <buttonsPanel id="numberButtons">
+                    <button id="callBtn" caption="Call" enable="false"/>
+                </buttonsPanel>
+            </groupTable>
+        </hbox>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>

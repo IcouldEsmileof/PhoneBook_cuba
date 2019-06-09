@@ -1,0 +1,548 @@
+2019-06-09 00:00:26.875 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 00:00:39.847 DEBUG [http-nio-8080-exec-10/app/admin] com.haulmont.cuba.web.App - Ping middleware session
+2019-06-09 00:10:26.876 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 00:10:39.857 DEBUG [http-nio-8080-exec-22/app/admin] com.haulmont.cuba.web.App - Ping middleware session
+2019-06-09 11:32:05.776 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:32:05.830 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/web-app.properties
+2019-06-09 11:32:10.247 INFO  [main] com.haulmont.cuba.core.sys.remoting.discovery.StaticServerSelector - Server URLs: [http://localhost:8080/app-core/remoting]
+2019-06-09 11:32:10.274 INFO  [main] com.haulmont.cuba.web.sys.remoting.WebRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [cuba_LoginService, cuba_AuthenticationService, cuba_TrustedClientService, cuba_ServerInfoService, cuba_UserSettingService, cuba_UserManagementService, cuba_DataService, cuba_ConfigStorageService, cuba_PersistenceManagerService, cuba_LockService, cuba_UserSessionService, cuba_FoldersService, cuba_EmailService, cuba_FileStorageService, cuba_EntitySnapshotService, cuba_UniqueNumbersService, cuba_LocalizedMessageService, cuba_ResourceService, cuba_ScheduledTasksService, cuba_EntityLogService, cuba_TestingService, cuba_DomainDescriptionService, cuba_RelatedEntitiesService, cuba_EntitySqlGenerationService, cuba_NumberIdService, cuba_QueryResultsService, cuba_DynamicAttributesCacheService, cuba_EntityRestoreService, cuba_LocalFileExchangeService, cuba_EntityImportExportService, cuba_ServerTokenStore, cuba_ConstraintLocalizationService, cuba_AttributeAccessService, cuba_ExceptionReportService, cuba_BulkEditorDataService]
+2019-06-09 11:32:12.233 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:32:12.621 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app.cuba:type=ConfigStorage, app.cuba:type=CachingFacade, app.cuba:type=FileUploading, app.cuba:type=JmxNodeIdentifier, app.cuba:type=JmxLogControl, app.cuba:type=ClassLoaderManager, app.cuba:type=StatisticsCounter]
+2019-06-09 11:32:12.801 DEBUG [main] com.haulmont.cuba.gui.components.impl.ActionsImpl - Actions initialized in 52 ms
+2019-06-09 11:32:12.805 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:32:13.197 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 392 ms
+2019-06-09 11:32:13.226 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:32:13.288 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Initializing Servlet 'dispatcher'
+2019-06-09 11:32:13.746 DEBUG [main] org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+2019-06-09 11:32:14.634 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Completed initialization in 1345 ms
+2019-06-09 11:32:14.635 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Initializing Servlet 'rest_api'
+2019-06-09 11:32:15.986 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Completed initialization in 1351 ms
+2019-06-09 11:32:16.237 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:32:16.261 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/app.properties
+2019-06-09 11:32:16.279 INFO  [main] com.haulmont.cuba.core.sys.AppContextLoader - DbmsType of the main database is set to hsql
+2019-06-09 11:32:16.439 INFO  [main] com.haulmont.cuba.core.sys.persistence.PersistenceConfigProcessor - Creating file D:\CUBA\PhoneBook\deploy\tomcat\work\app-core\persistence.xml
+2019-06-09 11:32:22.880 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:32:23.027 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app-core.cuba:type=PersistenceManager, app-core.cuba:type=ConfigStorage, app-core.cuba:type=UserSessions, app-core.cuba:type=UniqueNumbers, app-core.cuba:type=Emailer, app-core.cuba:type=EntityLog, app-core.cuba:type=FileStorage, app-core.cuba:type=LockManager, app-core.cuba:type=CachingFacade, app-core.cuba:type=ClusterManager, app-core.cuba:type=ScriptingManager, app-core.cuba:type=ServerInfo, app-core.cuba:type=Scheduling, app-core.cuba:type=PasswordEncryptionSupport, app-core.cuba:type=JmxNodeIdentifier, app-core.cuba:type=JmxLogControl, app-core.cuba:type=ClassLoaderManager, app-core.cuba:type=StatisticsCounter, app-core.cuba:type=BruteForceProtection, app-core.cuba:type=QueryCacheSupport, app-core.cuba:type=ServerTokenStore]
+2019-06-09 11:32:23.336 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:32:23.566 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 230 ms
+2019-06-09 11:32:24.084 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Initialize anonymous session
+2019-06-09 11:32:24.787 INFO  [main/app-core/server] com.haulmont.cuba.core.app.ConfigStorage - Loading DB-stored app properties cache
+2019-06-09 11:32:25.286 INFO  [main/app-core/server] com.haulmont.cuba.core.sys.DefaultPermissionValuesConfig - Initializing default permission values
+2019-06-09 11:32:25.383 INFO  [main/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 910b8a95-e5af-5f4d-0bbc-7a1471598873 [anonymous]
+2019-06-09 11:32:25.384 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Anonymous session initialized with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:32:25.384 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:32:25.386 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Initializing Servlet 'remoting'
+2019-06-09 11:32:25.431 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2019-06-09 11:32:25.539 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 11:32:25.613 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Completed initialization in 227 ms
+2019-06-09 11:32:30.613 WARN  [http-nio-8080-exec-34] com.vaadin.server.DefaultDeploymentConfiguration - 
+=================================================================
+Vaadin is running in DEBUG MODE.
+Add productionMode=true to web.xml to disable debug features.
+To show debug window, add ?debug to your application URL.
+=================================================================
+2019-06-09 11:32:31.354 DEBUG [http-nio-8080-exec-33] com.haulmont.cuba.web.App - Initializing application
+2019-06-09 11:32:31.366 DEBUG [http-nio-8080-exec-33] com.haulmont.cuba.gui.theme.ThemeConstantsRepository - Loading theme constants
+2019-06-09 11:32:31.400 DEBUG [http-nio-8080-exec-33] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Loading anonymous session
+2019-06-09 11:32:31.635 DEBUG [http-nio-8080-exec-33] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Anonymous session loaded with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:32:31.645 DEBUG [http-nio-8080-exec-33/app/anonymous] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: false
+2019-06-09 11:32:31.645 DEBUG [http-nio-8080-exec-33/app/anonymous] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:32:31.730 INFO  [http-nio-8080-exec-33/app/anonymous] com.haulmont.cuba.gui.config.WindowConfig - WindowConfig initialized in 72 ms
+2019-06-09 11:32:36.781 INFO  [http-nio-8080-exec-43/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: c53f219c-f6ef-0805-ae41-555a42382363 [admin]
+2019-06-09 11:32:36.792 DEBUG [http-nio-8080-exec-43/app/admin] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: true
+2019-06-09 11:32:36.793 DEBUG [http-nio-8080-exec-43/app/admin] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:32:36.799 DEBUG [http-nio-8080-exec-43/app/admin] com.haulmont.cuba.web.DefaultApp - Session reinitialized: HttpSession=org.apache.catalina.session.StandardSessionFacade@7bbdcdf5, timeout=1800sec, UserSession=c53f219c-f6ef-0805-ae41-555a42382363 [admin]
+2019-06-09 11:32:37.187 INFO  [http-nio-8080-exec-43/app-core/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:32:37.210 DEBUG [http-nio-8080-exec-43/app-core/admin] com.haulmont.cuba.core.app.StoreFactory - No implementation is specified for _MAIN_ store, using RdbmsStore
+2019-06-09 11:32:37.232 DEBUG [http-nio-8080-exec-43/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2019-06-09 11:32:40.037 INFO  [http-nio-8080-exec-27/app/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:32:40.095 INFO  [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.PersistenceManager - Loading statistics cache
+2019-06-09 11:32:40.330 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:32:40.371 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Person, view=com.company.phonebook.entity.Person/person-view, query=select e from phonebook_Person e order by e.name, max=5000
+2019-06-09 11:32:40.434 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber
+2019-06-09 11:32:43.258 INFO  [ClientCacheManager-pool-2-thread-1/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 1144bd61-91c9-68b9-a8db-a7d9939d1938 [admin]
+2019-06-09 11:32:53.846 DEBUG [http-nio-8080-exec-44/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.PhoneNumber-eec0fc72-580a-64c6-250a-2636bdc3fff1 [new]], removeInstances=[]
+2019-06-09 11:32:53.852 DEBUG [http-nio-8080-exec-44/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loading entities
+2019-06-09 11:32:53.860 DEBUG [http-nio-8080-exec-44/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loaded: entitiesAuto=0, entitiesManual=0
+2019-06-09 11:32:53.891 ERROR [http-nio-8080-exec-44/app-core/admin] com.haulmont.cuba.core.sys.ServiceInterceptor - Exception: 
+java.lang.IllegalStateException: During synchronization a new object was found through a relationship that was not marked cascade PERSIST: com.company.phonebook.entity.Person-93b41819-fdc5-7649-f656-30ea6cc8e43c [new].
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.discoverUnregisteredNewObjects(RepeatableWriteUnitOfWork.java:315) ~[org.eclipse.persistence.core-2.7.3-2-cuba.jar:na]
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.calculateChanges(UnitOfWorkImpl.java:768) ~[org.eclipse.persistence.core-2.7.3-2-cuba.jar:na]
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:443) ~[org.eclipse.persistence.core-2.7.3-2-cuba.jar:na]
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:974) ~[org.eclipse.persistence.jpa-2.7.3-2-cuba.jar:na]
+	at com.haulmont.cuba.core.sys.persistence.PersistenceImplSupport$ContainerResourceSynchronization.detachAll(PersistenceImplSupport.java:496) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.sys.persistence.PersistenceImplSupport$ContainerResourceSynchronization.beforeCommit(PersistenceImplSupport.java:449) ~[cuba-core-7.0.6.jar:7.0.6]
+	at org.springframework.transaction.support.TransactionSynchronizationUtils.triggerBeforeCommit(TransactionSynchronizationUtils.java:96) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.triggerBeforeCommit(AbstractPlatformTransactionManager.java:922) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:730) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:714) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.core.sys.TransactionImpl.commit(TransactionImpl.java:104) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.app.RdbmsStore.commit(RdbmsStore.java:474) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.app.DataManagerBean.commit(DataManagerBean.java:161) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.app.DataServiceBean.commit(DataServiceBean.java:41) ~[cuba-core-7.0.6.jar:7.0.6]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:88) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:117) ~[cuba-core-7.0.6.jar:7.0.6]
+	at sun.reflect.GeneratedMethodAccessor129.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:644) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:633) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:175) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.sun.proxy.$Proxy229.commit(Unknown Source) [na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94) [cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:154) [cuba-web-7.0.6.jar:7.0.6]
+	at com.sun.proxy.$Proxy35.commit(Unknown Source) [na:na]
+	at com.haulmont.cuba.client.sys.DataManagerClientImpl.commit(DataManagerClientImpl.java:100) [cuba-client-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.client.sys.DataManagerClientImpl.commit(DataManagerClientImpl.java:105) [cuba-client-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.client.sys.DataManagerClientImpl.commit(DataManagerClientImpl.java:128) [cuba-client-7.0.6.jar:7.0.6]
+	at com.company.phonebook.web.screens.person.PersonBrowse.onUploadFieldFileUploadSucceed(PersonBrowse.java:112) [app-web-0.1-SNAPSHOT.jar:na]
+	at com.haulmont.bali.events.EventHub.publish(EventHub.java:170) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.gui.components.WebAbstractComponent.publish(WebAbstractComponent.java:88) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.gui.components.WebFileUploadField.fireFileUploadSucceed(WebFileUploadField.java:431) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.gui.components.WebFileUploadField.lambda$initUploadButton$510c8040$1(WebFileUploadField.java:260) ~[cuba-web-7.0.6.jar:7.0.6]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.vaadin.event.ListenerMethod.receiveEvent(ListenerMethod.java:496) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.event.EventRouter.fireEvent(EventRouter.java:273) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.event.EventRouter.fireEvent(EventRouter.java:237) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.AbstractClientConnector.fireEvent(AbstractClientConnector.java:1041) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.haulmont.cuba.web.widgets.CubaFileUpload.fireUploadSuccess(CubaFileUpload.java:484) ~[cuba-web-widgets-7.0.6.jar:na]
+	at com.haulmont.cuba.web.widgets.CubaFileUpload$1.fileUploaded(CubaFileUpload.java:72) ~[cuba-web-widgets-7.0.6.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:153) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:115) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocation(ServerRpcHandler.java:431) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocations(ServerRpcHandler.java:396) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleRpc(ServerRpcHandler.java:260) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.UidlRequestHandler.synchronizedHandleRequest(UidlRequestHandler.java:82) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.SynchronizedRequestHandler.handleRequest(SynchronizedRequestHandler.java:40) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinService.handleRequest(VaadinService.java:1577) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinServlet.service(VaadinServlet.java:425) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.serviceAppRequest(CubaApplicationServlet.java:329) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.service(CubaApplicationServlet.java:215) ~[cuba-web-7.0.6.jar:7.0.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-websocket.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:73) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:108) ~[cuba-web-7.0.6.jar:7.0.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[catalina.jar:9.0.14]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-coyote.jar:9.0.14]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-util.jar:9.0.14]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_191]
+2019-06-09 11:33:43.386 INFO  [cuba_web_scheduler-3] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_MenuConfig.reset
+2019-06-09 11:33:46.591 DEBUG [http-nio-8080-exec-37/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:33:46.817 DEBUG [http-nio-8080-exec-37/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Person, view=com.company.phonebook.entity.Person/person-view, query=select e from phonebook_Person e order by e.name, max=5000
+2019-06-09 11:33:46.855 DEBUG [http-nio-8080-exec-37/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber
+2019-06-09 11:33:50.570 DEBUG [http-nio-8080-exec-7/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.Person-a09bea0f-1bea-a523-e5d1-6b66b6c6401f [new]], removeInstances=[]
+2019-06-09 11:33:50.586 DEBUG [http-nio-8080-exec-7/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.company.phonebook.entity.PhoneNumber-fb54dafa-86e0-c557-cfca-411e49fe671b [new]], removeInstances=[]
+2019-06-09 11:33:53.648 DEBUG [http-nio-8080-exec-43/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:33:53.661 DEBUG [http-nio-8080-exec-43/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Person, view=com.company.phonebook.entity.Person/person-view, query=select e from phonebook_Person e order by e.name, max=5000
+2019-06-09 11:33:53.683 DEBUG [http-nio-8080-exec-43/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber
+2019-06-09 11:35:00.936 DEBUG [http-nio-8080-exec-31/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:35:00.954 DEBUG [http-nio-8080-exec-31/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber, max=5000
+2019-06-09 11:35:06.826 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[], removeInstances=[com.company.phonebook.entity.PhoneNumber-a42f34d0-acf4-5699-0223-bef75d3b0a2a [detached]]
+2019-06-09 11:35:06.890 ERROR [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.sys.ServiceInterceptor - Exception: 
+java.lang.RuntimeException: Error processing deletion of com.company.phonebook.entity.Calls-f438ec00-a77c-7844-963d-7b7e917319d8 [detached]
+	at com.haulmont.cuba.core.sys.persistence.DeletePolicyProcessor.lambda$hardSetReferenceNull$2(DeletePolicyProcessor.java:259) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.sys.PersistenceImpl$EntityManagerContextSynchronization.beforeCommit(PersistenceImpl.java:330) ~[cuba-core-7.0.6.jar:7.0.6]
+	at org.springframework.transaction.support.TransactionSynchronizationUtils.triggerBeforeCommit(TransactionSynchronizationUtils.java:96) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.triggerBeforeCommit(AbstractPlatformTransactionManager.java:922) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:730) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:714) ~[spring-tx-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.core.sys.TransactionImpl.commit(TransactionImpl.java:104) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.app.RdbmsStore.commit(RdbmsStore.java:474) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.app.DataManagerBean.commit(DataManagerBean.java:161) ~[cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.app.DataServiceBean.commit(DataServiceBean.java:41) ~[cuba-core-7.0.6.jar:7.0.6]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:88) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:117) ~[cuba-core-7.0.6.jar:7.0.6]
+	at sun.reflect.GeneratedMethodAccessor129.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:644) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:633) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:175) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.sun.proxy.$Proxy229.commit(Unknown Source) [na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94) [cuba-core-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:154) [cuba-web-7.0.6.jar:7.0.6]
+	at com.sun.proxy.$Proxy35.commit(Unknown Source) [na:na]
+	at com.haulmont.cuba.client.sys.DataManagerClientImpl.commit(DataManagerClientImpl.java:100) [cuba-client-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.commitIfNeeded(RemoveOperation.java:216) [cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.removeItems(RemoveOperation.java:176) [cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.performAction(RemoveOperation.java:161) [cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.lambda$performActionWithConfirmation$1(RemoveOperation.java:294) [cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.bali.events.EventHub.publish(EventHub.java:170) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.components.actions.BaseAction.actionPerform(BaseAction.java:221) ~[cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.WebDialogs$OptionDialogBuilderImpl.lambda$show$0(WebDialogs.java:319) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.widgets.CubaButton.fireClick(CubaButton.java:76) ~[cuba-web-widgets-7.0.6.jar:na]
+	at com.vaadin.ui.Button$1.click(Button.java:57) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:153) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:115) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocation(ServerRpcHandler.java:431) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocations(ServerRpcHandler.java:396) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleRpc(ServerRpcHandler.java:260) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.UidlRequestHandler.synchronizedHandleRequest(UidlRequestHandler.java:82) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.SynchronizedRequestHandler.handleRequest(SynchronizedRequestHandler.java:40) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinService.handleRequest(VaadinService.java:1577) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinServlet.service(VaadinServlet.java:425) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.serviceAppRequest(CubaApplicationServlet.java:329) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.service(CubaApplicationServlet.java:215) ~[cuba-web-7.0.6.jar:7.0.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-websocket.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:73) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:108) ~[cuba-web-7.0.6.jar:7.0.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[catalina.jar:9.0.14]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-coyote.jar:9.0.14]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-util.jar:9.0.14]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_191]
+Caused by: java.sql.SQLException: integrity constraint violation: NOT NULL check constraint; SYS_CT_10419 table: PHONEBOOK_CALLS column: PHONE_NUMBER_ID Query: update PHONEBOOK_CALLS set PHONE_NUMBER_ID = null where id = ? Parameters: [f438ec00-a77c-7844-963d-7b7e917319d8]
+	at com.haulmont.bali.db.QueryRunner.rethrow(QueryRunner.java:462) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.bali.db.QueryRunner.update(QueryRunner.java:550) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.bali.db.QueryRunner.update(QueryRunner.java:521) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.bali.db.QueryRunner.update(QueryRunner.java:506) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.core.sys.persistence.DeletePolicyProcessor.lambda$hardSetReferenceNull$2(DeletePolicyProcessor.java:257) ~[cuba-core-7.0.6.jar:7.0.6]
+	... 89 common frames omitted
+2019-06-09 11:35:06.936 ERROR [http-nio-8080-exec-28/app/admin] com.haulmont.cuba.web.log.AppLog - Exception in com.haulmont.cuba.web.widgets.CubaButton: 
+com.vaadin.server.ServerRpcManager$RpcInvocationException: Unable to invoke method click in com.vaadin.shared.ui.button.ButtonServerRpc
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:157) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:115) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocation(ServerRpcHandler.java:431) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocations(ServerRpcHandler.java:396) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleRpc(ServerRpcHandler.java:260) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.UidlRequestHandler.synchronizedHandleRequest(UidlRequestHandler.java:82) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.SynchronizedRequestHandler.handleRequest(SynchronizedRequestHandler.java:40) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinService.handleRequest(VaadinService.java:1577) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinServlet.service(VaadinServlet.java:425) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.serviceAppRequest(CubaApplicationServlet.java:329) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.service(CubaApplicationServlet.java:215) ~[cuba-web-7.0.6.jar:7.0.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-websocket.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:73) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:108) ~[cuba-web-7.0.6.jar:7.0.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:9.0.14]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[catalina.jar:9.0.14]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) ~[tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-coyote.jar:9.0.14]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-util.jar:9.0.14]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_191]
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:153) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	... 38 common frames omitted
+Caused by: com.haulmont.cuba.core.global.RemoteException: integrity constraint violation: NOT NULL check constraint; SYS_CT_10419 table: PHONEBOOK_CALLS column: PHONE_NUMBER_ID Query: update PHONEBOOK_CALLS set PHONE_NUMBER_ID = null where id = ? Parameters: [f438ec00-a77c-7844-963d-7b7e917319d8]
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:129) ~[na:na]
+	at sun.reflect.GeneratedMethodAccessor129.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:644) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:633) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:175) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212) ~[spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.sun.proxy.$Proxy229.commit(Unknown Source) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94) ~[na:na]
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:154) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.sun.proxy.$Proxy35.commit(Unknown Source) ~[na:na]
+	at com.haulmont.cuba.client.sys.DataManagerClientImpl.commit(DataManagerClientImpl.java:100) ~[cuba-client-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.commitIfNeeded(RemoveOperation.java:216) ~[cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.removeItems(RemoveOperation.java:176) ~[cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.performAction(RemoveOperation.java:161) ~[cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.RemoveOperation.lambda$performActionWithConfirmation$1(RemoveOperation.java:294) ~[cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.bali.events.EventHub.publish(EventHub.java:170) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.gui.components.actions.BaseAction.actionPerform(BaseAction.java:221) ~[cuba-gui-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.WebDialogs$OptionDialogBuilderImpl.lambda$show$0(WebDialogs.java:319) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.widgets.CubaButton.fireClick(CubaButton.java:76) ~[cuba-web-widgets-7.0.6.jar:na]
+	at com.vaadin.ui.Button$1.click(Button.java:57) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	... 43 common frames omitted
+2019-06-09 11:36:45.299 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:36:45.348 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/web-app.properties
+2019-06-09 11:36:48.634 INFO  [main] com.haulmont.cuba.core.sys.remoting.discovery.StaticServerSelector - Server URLs: [http://localhost:8080/app-core/remoting]
+2019-06-09 11:36:48.660 INFO  [main] com.haulmont.cuba.web.sys.remoting.WebRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [cuba_LoginService, cuba_AuthenticationService, cuba_TrustedClientService, cuba_ServerInfoService, cuba_UserSettingService, cuba_UserManagementService, cuba_DataService, cuba_ConfigStorageService, cuba_PersistenceManagerService, cuba_LockService, cuba_UserSessionService, cuba_FoldersService, cuba_EmailService, cuba_FileStorageService, cuba_EntitySnapshotService, cuba_UniqueNumbersService, cuba_LocalizedMessageService, cuba_ResourceService, cuba_ScheduledTasksService, cuba_EntityLogService, cuba_TestingService, cuba_DomainDescriptionService, cuba_RelatedEntitiesService, cuba_EntitySqlGenerationService, cuba_NumberIdService, cuba_QueryResultsService, cuba_DynamicAttributesCacheService, cuba_EntityRestoreService, cuba_LocalFileExchangeService, cuba_EntityImportExportService, cuba_ServerTokenStore, cuba_ConstraintLocalizationService, cuba_AttributeAccessService, cuba_ExceptionReportService, cuba_BulkEditorDataService]
+2019-06-09 11:36:50.214 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:36:50.510 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app.cuba:type=ConfigStorage, app.cuba:type=CachingFacade, app.cuba:type=FileUploading, app.cuba:type=JmxNodeIdentifier, app.cuba:type=JmxLogControl, app.cuba:type=ClassLoaderManager, app.cuba:type=StatisticsCounter]
+2019-06-09 11:36:50.683 DEBUG [main] com.haulmont.cuba.gui.components.impl.ActionsImpl - Actions initialized in 46 ms
+2019-06-09 11:36:50.687 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:36:50.999 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 312 ms
+2019-06-09 11:36:51.027 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:36:51.080 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Initializing Servlet 'dispatcher'
+2019-06-09 11:36:51.437 DEBUG [main] org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+2019-06-09 11:36:52.187 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Completed initialization in 1107 ms
+2019-06-09 11:36:52.188 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Initializing Servlet 'rest_api'
+2019-06-09 11:36:53.333 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Completed initialization in 1145 ms
+2019-06-09 11:36:53.503 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:36:53.520 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/app.properties
+2019-06-09 11:36:53.533 INFO  [main] com.haulmont.cuba.core.sys.AppContextLoader - DbmsType of the main database is set to hsql
+2019-06-09 11:36:53.666 INFO  [main] com.haulmont.cuba.core.sys.persistence.PersistenceConfigProcessor - Creating file D:\CUBA\PhoneBook\deploy\tomcat\work\app-core\persistence.xml
+2019-06-09 11:36:58.699 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:36:58.824 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app-core.cuba:type=PersistenceManager, app-core.cuba:type=ConfigStorage, app-core.cuba:type=UserSessions, app-core.cuba:type=UniqueNumbers, app-core.cuba:type=Emailer, app-core.cuba:type=EntityLog, app-core.cuba:type=FileStorage, app-core.cuba:type=LockManager, app-core.cuba:type=CachingFacade, app-core.cuba:type=ClusterManager, app-core.cuba:type=ScriptingManager, app-core.cuba:type=ServerInfo, app-core.cuba:type=Scheduling, app-core.cuba:type=PasswordEncryptionSupport, app-core.cuba:type=JmxNodeIdentifier, app-core.cuba:type=JmxLogControl, app-core.cuba:type=ClassLoaderManager, app-core.cuba:type=StatisticsCounter, app-core.cuba:type=BruteForceProtection, app-core.cuba:type=QueryCacheSupport, app-core.cuba:type=ServerTokenStore]
+2019-06-09 11:36:59.119 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:36:59.292 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 173 ms
+2019-06-09 11:36:59.712 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Initialize anonymous session
+2019-06-09 11:37:00.258 INFO  [main/app-core/server] com.haulmont.cuba.core.app.ConfigStorage - Loading DB-stored app properties cache
+2019-06-09 11:37:00.719 INFO  [main/app-core/server] com.haulmont.cuba.core.sys.DefaultPermissionValuesConfig - Initializing default permission values
+2019-06-09 11:37:00.805 INFO  [main/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 910b8a95-e5af-5f4d-0bbc-7a1471598873 [anonymous]
+2019-06-09 11:37:00.806 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Anonymous session initialized with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:37:00.806 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:37:00.808 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Initializing Servlet 'remoting'
+2019-06-09 11:37:00.848 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2019-06-09 11:37:00.924 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 11:37:00.996 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Completed initialization in 188 ms
+2019-06-09 11:37:03.753 WARN  [http-nio-8080-exec-4] com.vaadin.server.DefaultDeploymentConfiguration - 
+=================================================================
+Vaadin is running in DEBUG MODE.
+Add productionMode=true to web.xml to disable debug features.
+To show debug window, add ?debug to your application URL.
+=================================================================
+2019-06-09 11:37:04.432 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.App - Initializing application
+2019-06-09 11:37:04.441 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.gui.theme.ThemeConstantsRepository - Loading theme constants
+2019-06-09 11:37:04.472 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Loading anonymous session
+2019-06-09 11:37:04.676 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Anonymous session loaded with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:37:04.687 DEBUG [http-nio-8080-exec-20/app/anonymous] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: false
+2019-06-09 11:37:04.687 DEBUG [http-nio-8080-exec-20/app/anonymous] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:37:04.791 INFO  [http-nio-8080-exec-20/app/anonymous] com.haulmont.cuba.gui.config.WindowConfig - WindowConfig initialized in 91 ms
+2019-06-09 11:37:08.248 INFO  [http-nio-8080-exec-14/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 1fe00960-1654-a6b7-971c-cba13bd3c872 [admin]
+2019-06-09 11:37:08.261 DEBUG [http-nio-8080-exec-14/app/admin] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: true
+2019-06-09 11:37:08.262 DEBUG [http-nio-8080-exec-14/app/admin] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:37:08.269 DEBUG [http-nio-8080-exec-14/app/admin] com.haulmont.cuba.web.DefaultApp - Session reinitialized: HttpSession=org.apache.catalina.session.StandardSessionFacade@7e6c14c1, timeout=1800sec, UserSession=1fe00960-1654-a6b7-971c-cba13bd3c872 [admin]
+2019-06-09 11:37:08.617 INFO  [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:37:08.640 DEBUG [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.app.StoreFactory - No implementation is specified for _MAIN_ store, using RdbmsStore
+2019-06-09 11:37:08.663 DEBUG [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2019-06-09 11:37:14.252 INFO  [http-nio-8080-exec-25/app/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:37:14.289 INFO  [http-nio-8080-exec-25/app-core/admin] com.haulmont.cuba.core.app.PersistenceManager - Loading statistics cache
+2019-06-09 11:37:14.427 DEBUG [http-nio-8080-exec-25/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:37:14.475 DEBUG [http-nio-8080-exec-25/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:37:31.275 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:37:31.292 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Person, view=com.company.phonebook.entity.Person/person-view, query=select e from phonebook_Person e order by e.name, max=5000
+2019-06-09 11:37:31.321 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber
+2019-06-09 11:37:34.989 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:37:35.008 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber, max=5000
+2019-06-09 11:37:39.849 DEBUG [http-nio-8080-exec-6/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[], removeInstances=[com.company.phonebook.entity.PhoneNumber-a42f34d0-acf4-5699-0223-bef75d3b0a2a [detached]]
+2019-06-09 11:37:39.869 DEBUG [http-nio-8080-exec-6/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loading entities
+2019-06-09 11:37:39.874 DEBUG [http-nio-8080-exec-6/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loaded: entitiesAuto=0, entitiesManual=0
+2019-06-09 11:37:41.063 INFO  [ClientCacheManager-pool-2-thread-1/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 19612bcc-289b-b635-9991-2afce9445fc8 [admin]
+2019-06-09 11:37:47.237 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:37:47.248 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:38:14.965 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:38:14.977 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:38:40.262 DEBUG [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:38:40.272 DEBUG [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_PhoneNumber, view=com.company.phonebook.entity.PhoneNumber/phoneNumber-view, query=select e from phonebook_PhoneNumber, max=5000
+2019-06-09 11:42:21.147 INFO  [cuba_web_scheduler-1] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_MenuConfig.reset
+2019-06-09 11:42:27.665 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:42:27.681 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
+2019-06-09 11:42:29.681 ERROR [http-nio-8080-exec-28/app/admin] com.haulmont.cuba.web.log.AppLog - Exception in com.haulmont.cuba.web.widgets.CubaButton: 
+com.vaadin.server.ServerRpcManager$RpcInvocationException: Unable to invoke method click in com.vaadin.shared.ui.button.ButtonServerRpc
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:157) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:115) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocation(ServerRpcHandler.java:431) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleInvocations(ServerRpcHandler.java:396) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.ServerRpcHandler.handleRpc(ServerRpcHandler.java:260) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.communication.UidlRequestHandler.synchronizedHandleRequest(UidlRequestHandler.java:82) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.SynchronizedRequestHandler.handleRequest(SynchronizedRequestHandler.java:40) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinService.handleRequest(VaadinService.java:1577) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.vaadin.server.VaadinServlet.service(VaadinServlet.java:425) [vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.serviceAppRequest(CubaApplicationServlet.java:329) [cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.sys.CubaApplicationServlet.service(CubaApplicationServlet.java:215) [cuba-web-7.0.6.jar:7.0.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [servlet-api.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [catalina.jar:9.0.14]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [catalina.jar:9.0.14]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:107) [spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:73) [spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:108) [cuba-web-7.0.6.jar:7.0.6]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [catalina.jar:9.0.14]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [catalina.jar:9.0.14]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.14]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668) [catalina.jar:9.0.14]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.14]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [catalina.jar:9.0.14]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-coyote.jar:9.0.14]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417) [tomcat-coyote.jar:9.0.14]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.14]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.14]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_191]
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_191]
+	at com.vaadin.server.ServerRpcManager.applyInvocation(ServerRpcManager.java:153) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	... 38 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at com.company.phonebook.web.screens.calls.CallsBrowse.onTopBtnClick(CallsBrowse.java:84) ~[app-web-0.1-SNAPSHOT.jar:na]
+	at com.haulmont.bali.events.EventHub.publish(EventHub.java:170) ~[cuba-global-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.gui.components.WebAbstractComponent.publish(WebAbstractComponent.java:88) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.gui.components.WebButton.buttonClicked(WebButton.java:65) ~[cuba-web-7.0.6.jar:7.0.6]
+	at com.haulmont.cuba.web.widgets.CubaButton.fireClick(CubaButton.java:76) ~[cuba-web-widgets-7.0.6.jar:na]
+	at com.vaadin.ui.Button$1.click(Button.java:57) ~[vaadin-server-8.6.4-11-cuba.jar:8.6.4-11-cuba]
+	... 43 common frames omitted
+2019-06-09 11:44:13.553 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:44:13.605 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/web-app.properties
+2019-06-09 11:44:17.597 INFO  [main] com.haulmont.cuba.core.sys.remoting.discovery.StaticServerSelector - Server URLs: [http://localhost:8080/app-core/remoting]
+2019-06-09 11:44:17.642 INFO  [main] com.haulmont.cuba.web.sys.remoting.WebRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [cuba_LoginService, cuba_AuthenticationService, cuba_TrustedClientService, cuba_ServerInfoService, cuba_UserSettingService, cuba_UserManagementService, cuba_DataService, cuba_ConfigStorageService, cuba_PersistenceManagerService, cuba_LockService, cuba_UserSessionService, cuba_FoldersService, cuba_EmailService, cuba_FileStorageService, cuba_EntitySnapshotService, cuba_UniqueNumbersService, cuba_LocalizedMessageService, cuba_ResourceService, cuba_ScheduledTasksService, cuba_EntityLogService, cuba_TestingService, cuba_DomainDescriptionService, cuba_RelatedEntitiesService, cuba_EntitySqlGenerationService, cuba_NumberIdService, cuba_QueryResultsService, cuba_DynamicAttributesCacheService, cuba_EntityRestoreService, cuba_LocalFileExchangeService, cuba_EntityImportExportService, cuba_ServerTokenStore, cuba_ConstraintLocalizationService, cuba_AttributeAccessService, cuba_ExceptionReportService, cuba_BulkEditorDataService]
+2019-06-09 11:44:19.421 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:44:19.744 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app.cuba:type=ConfigStorage, app.cuba:type=CachingFacade, app.cuba:type=FileUploading, app.cuba:type=JmxNodeIdentifier, app.cuba:type=JmxLogControl, app.cuba:type=ClassLoaderManager, app.cuba:type=StatisticsCounter]
+2019-06-09 11:44:19.915 DEBUG [main] com.haulmont.cuba.gui.components.impl.ActionsImpl - Actions initialized in 48 ms
+2019-06-09 11:44:19.921 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:44:20.317 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 396 ms
+2019-06-09 11:44:20.344 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:44:20.418 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Initializing Servlet 'dispatcher'
+2019-06-09 11:44:20.884 DEBUG [main] org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+2019-06-09 11:44:21.790 INFO  [main] com.haulmont.cuba.web.sys.CubaDispatcherServlet - Completed initialization in 1372 ms
+2019-06-09 11:44:21.792 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Initializing Servlet 'rest_api'
+2019-06-09 11:44:23.105 INFO  [main] com.haulmont.restapi.sys.CubaRestApiServlet - Completed initialization in 1313 ms
+2019-06-09 11:44:23.307 INFO  [main] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2019-06-09 11:44:23.331 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/company/phonebook/app.properties
+2019-06-09 11:44:23.349 INFO  [main] com.haulmont.cuba.core.sys.AppContextLoader - DbmsType of the main database is set to hsql
+2019-06-09 11:44:23.533 INFO  [main] com.haulmont.cuba.core.sys.persistence.PersistenceConfigProcessor - Creating file D:\CUBA\PhoneBook\deploy\tomcat\work\app-core\persistence.xml
+2019-06-09 11:44:28.979 INFO  [main] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService 'scheduler'
+2019-06-09 11:44:29.101 INFO  [main] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app-core.cuba:type=PersistenceManager, app-core.cuba:type=ConfigStorage, app-core.cuba:type=UserSessions, app-core.cuba:type=UniqueNumbers, app-core.cuba:type=Emailer, app-core.cuba:type=EntityLog, app-core.cuba:type=FileStorage, app-core.cuba:type=LockManager, app-core.cuba:type=CachingFacade, app-core.cuba:type=ClusterManager, app-core.cuba:type=ScriptingManager, app-core.cuba:type=ServerInfo, app-core.cuba:type=Scheduling, app-core.cuba:type=PasswordEncryptionSupport, app-core.cuba:type=JmxNodeIdentifier, app-core.cuba:type=JmxLogControl, app-core.cuba:type=ClassLoaderManager, app-core.cuba:type=StatisticsCounter, app-core.cuba:type=BruteForceProtection, app-core.cuba:type=QueryCacheSupport, app-core.cuba:type=ServerTokenStore]
+2019-06-09 11:44:29.364 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2019-06-09 11:44:29.558 INFO  [main] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 194 ms
+2019-06-09 11:44:30.006 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Initialize anonymous session
+2019-06-09 11:44:30.638 INFO  [main/app-core/server] com.haulmont.cuba.core.app.ConfigStorage - Loading DB-stored app properties cache
+2019-06-09 11:44:31.113 INFO  [main/app-core/server] com.haulmont.cuba.core.sys.DefaultPermissionValuesConfig - Initializing default permission values
+2019-06-09 11:44:31.217 INFO  [main/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 910b8a95-e5af-5f4d-0bbc-7a1471598873 [anonymous]
+2019-06-09 11:44:31.218 DEBUG [main] com.haulmont.cuba.security.auth.AnonymousSessionHolder - Anonymous session initialized with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:44:31.219 INFO  [main] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext started
+2019-06-09 11:44:31.221 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Initializing Servlet 'remoting'
+2019-06-09 11:44:31.265 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2019-06-09 11:44:31.366 DEBUG [cuba_core_scheduler-5] com.haulmont.cuba.core.app.queryresults.QueryResultsManager - Delete query results for inactive user sessions
+2019-06-09 11:44:31.433 INFO  [main] com.haulmont.cuba.core.sys.remoting.RemotingServlet - Completed initialization in 212 ms
+2019-06-09 11:44:38.813 WARN  [http-nio-8080-exec-10] com.vaadin.server.DefaultDeploymentConfiguration - 
+=================================================================
+Vaadin is running in DEBUG MODE.
+Add productionMode=true to web.xml to disable debug features.
+To show debug window, add ?debug to your application URL.
+=================================================================
+2019-06-09 11:44:39.502 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.App - Initializing application
+2019-06-09 11:44:39.513 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.gui.theme.ThemeConstantsRepository - Loading theme constants
+2019-06-09 11:44:39.549 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Loading anonymous session
+2019-06-09 11:44:39.771 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.security.WebAnonymousSessionHolder - Anonymous session loaded with id 910b8a95-e5af-5f4d-0bbc-7a1471598873
+2019-06-09 11:44:39.781 DEBUG [http-nio-8080-exec-20/app/anonymous] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: false
+2019-06-09 11:44:39.781 DEBUG [http-nio-8080-exec-20/app/anonymous] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:44:39.870 INFO  [http-nio-8080-exec-20/app/anonymous] com.haulmont.cuba.gui.config.WindowConfig - WindowConfig initialized in 80 ms
+2019-06-09 11:44:44.355 INFO  [http-nio-8080-exec-30/app-core/server] com.haulmont.cuba.security.auth.AuthenticationManagerBean - Logged in: 6bf4d679-69bf-12cd-ea8a-4aac15fa5590 [admin]
+2019-06-09 11:44:44.371 DEBUG [http-nio-8080-exec-30/app/admin] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: true
+2019-06-09 11:44:44.371 DEBUG [http-nio-8080-exec-30/app/admin] com.haulmont.cuba.web.App - Closing all windows in all UIs
+2019-06-09 11:44:44.377 DEBUG [http-nio-8080-exec-30/app/admin] com.haulmont.cuba.web.DefaultApp - Session reinitialized: HttpSession=org.apache.catalina.session.StandardSessionFacade@26004caa, timeout=1800sec, UserSession=6bf4d679-69bf-12cd-ea8a-4aac15fa5590 [admin]
+2019-06-09 11:44:44.751 INFO  [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:44:44.770 DEBUG [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.app.StoreFactory - No implementation is specified for _MAIN_ store, using RdbmsStore
+2019-06-09 11:44:44.791 DEBUG [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2019-06-09 11:44:48.977 INFO  [http-nio-8080-exec-21/app/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2019-06-09 11:44:49.014 INFO  [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.PersistenceManager - Loading statistics cache
+2019-06-09 11:44:49.174 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2019-06-09 11:44:49.226 DEBUG [http-nio-8080-exec-21/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=phonebook_Calls, view=com.company.phonebook.entity.Calls/calls-view, query=select e from phonebook_Calls, max=5000
